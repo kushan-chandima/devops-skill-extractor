@@ -1,0 +1,18 @@
+Rank,Skill,Job Count,Percentage,Category
+1,Kubernetes,50,100.0%,Containerization
+2,Docker,50,100.0%,Containerization
+3,AWS,47,94.0%,Cloud Platforms
+4,Python,38,76.0%,Programming Languages
+5,Terraform,30,60.0%,IaC & Config Management
+6,Jenkins,24,48.0%,CI/CD Tools
+7,Ansible,15,30.0%,IaC & Config Management
+8,Azure,10,20.0%,Cloud Platforms
+9,Go,7,14.0%,Programming Languages
+10,Linux,7,14.0%,Operating Systems
+11,Prometheus,6,12.0%,Monitoring & Observability
+12,CI/CD,4,8.0%,CI/CD Tools
+13,Bash,4,8.0%,Programming Languages
+14,GCP,3,6.0%,Cloud Platforms
+15,GitLab CI,2,4.0%,CI/CD Tools
+16,Java,2,4.0%,Programming Languages
+17,Grafana,1,2.0%,Monitoring & Observability

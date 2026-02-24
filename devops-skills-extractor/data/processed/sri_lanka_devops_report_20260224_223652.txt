@@ -1,0 +1,384 @@
+======================================================================
+SRI LANKA DEVOPS SKILLS ANALYSIS REPORT
+Generated: 2026-02-24 22:36:52
+======================================================================
+
+----------------------------------------------------------------------
+EXECUTIVE SUMMARY - SRI LANKA JOB MARKET
+----------------------------------------------------------------------
+Total Local Job Postings Analyzed: 50
+Unique Skills Identified: 17
+Total Skill Mentions: 300
+Average Skills per Job: 6.0
+
+----------------------------------------------------------------------
+TOP 15 MOST IN-DEMAND SKILLS IN SRI LANKA
+----------------------------------------------------------------------
+Rank  Skill               Count     Percentage  Visualization
+----------------------------------------------------------------------
+1     Kubernetes          50         100.0%     ██████████████████████████████████████████████████
+2     Docker              50         100.0%     ██████████████████████████████████████████████████
+3     AWS                 47          94.0%     ███████████████████████████████████████████████
+4     Python              38          76.0%     ██████████████████████████████████████
+5     Terraform           30          60.0%     ██████████████████████████████
+6     Jenkins             24          48.0%     ████████████████████████
+7     Ansible             15          30.0%     ███████████████
+8     Azure               10          20.0%     ██████████
+9     Go                  7           14.0%     ███████
+10    Linux               7           14.0%     ███████
+11    Prometheus          6           12.0%     ██████
+12    CI/CD               4            8.0%     ████
+13    Bash                4            8.0%     ████
+14    GCP                 3            6.0%     ███
+15    GitLab CI           2            4.0%     ██
+
+----------------------------------------------------------------------
+SKILLS BY CATEGORY
+----------------------------------------------------------------------
+
+Cloud Platforms:
+  AWS                        47 jobs ( 94.0%)
+  Azure                      10 jobs ( 20.0%)
+  GCP                         3 jobs (  6.0%)
+
+Containerization:
+  Kubernetes                 50 jobs (100.0%)
+  Docker                     50 jobs (100.0%)
+
+IaC & Config Management:
+  Terraform                  30 jobs ( 60.0%)
+  Ansible                    15 jobs ( 30.0%)
+
+CI/CD Tools:
+  Jenkins                    24 jobs ( 48.0%)
+  CI/CD                       4 jobs (  8.0%)
+  GitLab CI                   2 jobs (  4.0%)
+
+Programming Languages:
+  Python                     38 jobs ( 76.0%)
+  Go                          7 jobs ( 14.0%)
+  Bash                        4 jobs (  8.0%)
+  Java                        2 jobs (  4.0%)
+
+Monitoring & Observability:
+  Prometheus                  6 jobs ( 12.0%)
+  Grafana                     1 jobs (  2.0%)
+
+Operating Systems:
+  Linux                       7 jobs ( 14.0%)
+
+----------------------------------------------------------------------
+SRI LANKA COMPANIES HIRING DEVOPS ENGINEERS
+----------------------------------------------------------------------
+
+Major IT Companies:
+  - WSO2
+  - Virtusa
+  - IFS
+  - 99x
+  - Sysco LABS
+  - MillenniumIT
+  - Zone24x7
+
+International Companies with Sri Lanka Offices:
+  - Accenture Sri Lanka
+  - Deloitte Sri Lanka
+  - HSBC Sri Lanka
+  - Citi Sri Lanka
+  - Standard Chartered Sri Lanka
+
+----------------------------------------------------------------------
+JOB LOCATIONS IN SRI LANKA
+----------------------------------------------------------------------
+  Colombo, Sri Lanka: 45 job(s)
+  Kandy, Sri Lanka: 2 job(s)
+  Galle, Sri Lanka: 1 job(s)
+  Jaffna, Sri Lanka: 1 job(s)
+  Remote - Sri Lanka: 1 job(s)
+
+----------------------------------------------------------------------
+ALL JOB POSTINGS
+----------------------------------------------------------------------
+
+ 1. DevOps Engineer
+    Company: WSO2
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Jenkins, Python, CI/CD
+
+ 2. Senior DevOps Engineer
+    Company: Virtusa
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Azure, Kubernetes, Docker, Terraform, Ansible
+
+ 3. Cloud DevOps Engineer
+    Company: IFS
+    Location: Colombo, Sri Lanka
+    Skills: Azure, Kubernetes, Docker, Terraform, Python, Jenkins
+
+ 4. DevOps Lead
+    Company: 99x
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, GitLab CI, Terraform, Python
+
+ 5. Platform Engineer
+    Company: Sysco LABS
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Terraform, Go, Prometheus
+
+ 6. SRE
+    Company: MillenniumIT
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Python, Terraform, Linux
+
+ 7. DevOps Engineer
+    Company: Zone24x7
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Jenkins, Ansible, Python
+
+ 8. Cloud Engineer
+    Company: Pearson Lanka
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Azure, Kubernetes, Docker, Terraform, CI/CD
+
+ 9. DevOps Specialist
+    Company: Calcey Technologies
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Jenkins, Python, Bash
+
+10. Infrastructure Engineer
+    Company: Rootcode Labs
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Terraform, Python, Ansible
+
+11. DevOps Engineer
+    Company: Accenture Sri Lanka
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Azure, Kubernetes, Docker, Terraform, Jenkins
+
+12. Senior DevOps
+    Company: Deloitte Sri Lanka
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Ansible, Python, GitLab CI
+
+13. Platform Engineer
+    Company: HSBC Sri Lanka
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Terraform, Python, Jenkins
+
+14. DevOps Engineer
+    Company: Citi Sri Lanka
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Python, Ansible, Jenkins
+
+15. Cloud DevOps
+    Company: Standard Chartered Sri Lanka
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Azure, Kubernetes, Docker, Terraform, Python
+
+16. SRE
+    Company: Cambia Health Solutions
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Go, Terraform, Prometheus
+
+17. DevOps Lead
+    Company: Arimac
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Jenkins, Python, Terraform
+
+18. DevOps Engineer
+    Company: hSenid Software
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Jenkins, Java, Ansible
+
+19. Cloud Engineer
+    Company: Codegen
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Azure, Kubernetes, Docker, Terraform, Python
+
+20. Platform Engineer
+    Company: Creative Software
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Jenkins, Python, Linux
+
+21. DevOps Engineer
+    Company: Mitra Innovation
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Terraform, Python, CI/CD
+
+22. Senior DevOps
+    Company: Axiata Digital Labs
+    Location: Colombo, Sri Lanka
+    Skills: AWS, GCP, Kubernetes, Docker, Terraform, Go
+
+23. DevOps Specialist
+    Company: DirectFN
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Jenkins, Python, Ansible
+
+24. Cloud DevOps
+    Company: Cambio Software
+    Location: Colombo, Sri Lanka
+    Skills: Azure, Kubernetes, Docker, Terraform, Python, Jenkins
+
+25. Infrastructure Engineer
+    Company: Innodata
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Python, Ansible, Linux
+
+26. DevOps Engineer
+    Company: Dialog Axiata
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Terraform, Python, Jenkins
+
+27. Platform Engineer
+    Company: Mobitel
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Ansible, Python, Linux
+
+28. SRE
+    Company: SLT Digital
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Terraform, Go, Prometheus
+
+29. DevOps Lead
+    Company: Microimage
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Azure, Kubernetes, Docker, Jenkins, Python
+
+30. Cloud Engineer
+    Company: Brandix i3
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Terraform, Python, Ansible
+
+31. DevOps Engineer
+    Company: Respitec
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Jenkins, Python, Bash
+
+32. Senior DevOps
+    Company: Insighture
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Terraform, Python, Grafana
+
+33. Platform Engineer
+    Company: Stax Inc
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Terraform, Go, CI/CD
+
+34. DevOps Specialist
+    Company: Elegant Media
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Jenkins, Python, Ansible
+
+35. Cloud DevOps
+    Company: Enactor
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Azure, Kubernetes, Docker, Terraform, Java
+
+36. DevOps Engineer
+    Company: Wavenet International
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Jenkins, Python, Linux
+
+37. Infrastructure Engineer
+    Company: Anova Labs
+    Location: Colombo, Sri Lanka
+    Skills: AWS, GCP, Kubernetes, Docker, Terraform, Python
+
+38. DevOps Lead
+    Company: CodeGen International
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Jenkins, Ansible, Python
+
+39. SRE
+    Company: Wiley Global Technologies
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Terraform, Python, Prometheus
+
+40. DevOps Engineer
+    Company: Tectera
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Jenkins, Python, Bash
+
+41. DevOps Engineer
+    Company: WNS Sri Lanka
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Azure, Kubernetes, Docker, Terraform, Python
+
+42. Platform Engineer
+    Company: Genpact Lanka
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Jenkins, Ansible, Python
+
+43. Cloud DevOps
+    Company: IQ-Hub
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Terraform, Python, Jenkins
+
+44. Senior DevOps
+    Company: Eyepax IT Consulting
+    Location: Colombo, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Jenkins, Python, Linux
+
+45. DevOps Specialist
+    Company: Circles.Life
+    Location: Colombo, Sri Lanka
+    Skills: GCP, Kubernetes, Docker, Terraform, Go, Prometheus
+
+46. DevOps Engineer
+    Company: Kandy Cyber City
+    Location: Kandy, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Jenkins, Python, Ansible
+
+47. Cloud Engineer
+    Company: Tech Solutions Kandy
+    Location: Kandy, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Terraform, Python, Linux
+
+48. DevOps Engineer
+    Company: Southern IT Hub
+    Location: Galle, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Jenkins, Python, Bash
+
+49. Platform Engineer
+    Company: Northern Tech Park
+    Location: Jaffna, Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Terraform, Python, Ansible
+
+50. DevOps Engineer (Remote)
+    Company: PickMe
+    Location: Remote - Sri Lanka
+    Skills: AWS, Kubernetes, Docker, Terraform, Go, Prometheus
+
+----------------------------------------------------------------------
+KEY INSIGHTS FOR SRI LANKA MARKET
+----------------------------------------------------------------------
+
+1. ESSENTIAL SKILLS: Kubernetes, Docker, AWS
+   These are must-have skills for DevOps roles in Sri Lanka
+
+2. DOMINANT CLOUD PLATFORM: AWS
+   AWS dominates the Sri Lankan market, followed by Azure
+
+3. LOCAL MARKET TRENDS:
+   - Strong demand for Kubernetes and Docker expertise
+   - Python is the most sought-after programming language
+   - Jenkins remains the top CI/CD tool in local companies
+   - Terraform adoption is growing for Infrastructure as Code
+
+4. SALARY EXPECTATIONS (LKR/Month - Approximate):
+   - Junior DevOps: 150,000 - 300,000 LKR
+   - Mid-Level DevOps: 300,000 - 600,000 LKR
+   - Senior DevOps: 600,000 - 1,200,000 LKR
+   - DevOps Lead/Architect: 1,000,000 - 2,000,000 LKR
+
+5. RECOMMENDATIONS FOR SRI LANKAN DEVOPS PROFESSIONALS:
+   - Get AWS certified (Solutions Architect, DevOps Professional)
+   - Master Kubernetes and containerization
+   - Learn Infrastructure as Code with Terraform
+   - Build strong Python scripting skills
+   - Consider Azure skills for banking/finance sector
+
+======================================================================
+END OF SRI LANKA REPORT
+======================================================================

@@ -70,9 +70,12 @@ def main():
     print('DEVOPS SKILLS SUMMARY')
     print('=' * 60)
     print('\nMost In-Demand DevOps Skills:')
+    max_count = insights["top_skills"][0][1] if insights["top_skills"] else 1
     for i, (skill, count) in enumerate(insights["top_skills"], 1):
-        bar = '█' * (count * 5)
-        print(f'  {i}. {skill:15} {bar} ({count})')
+        bar_length = int((count / max_count) * 30)  # Scale to max 30 chars
+        bar = '█' * bar_length
+        percentage = (count / len(cleaned_data)) * 100
+        print(f'  {i:>2}. {skill:15} {bar:<30} {count:>3} ({percentage:>5.1f}%)')
 
 if __name__ == "__main__":
     main()

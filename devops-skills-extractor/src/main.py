@@ -23,13 +23,13 @@ def main():
     skills_analyzer = SkillsAnalyzer()
 
     # Extract skills
-    extracted_skills = skills_extractor.extract(combined_data)
+    extracted_skills = skills_extractor.extract_skills(combined_data)
 
     # Clean data
-    cleaned_data = data_cleaner.clean(combined_data)
+    cleaned_data = data_cleaner.clean_data(combined_data)
 
     # Analyze skills
-    analysis_results = skills_analyzer.analyze(cleaned_data)
+    analysis_results = skills_analyzer.analyze_skills(cleaned_data)
 
     # Output results
     print("Extracted Skills:", extracted_skills)

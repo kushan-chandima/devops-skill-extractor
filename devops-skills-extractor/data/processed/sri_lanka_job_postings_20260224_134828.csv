@@ -1,0 +1,51 @@
+#,Title,Company,Location,Skills
+1,DevOps Engineer,WSO2,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Jenkins; Python; CI/CD
+2,Senior DevOps Engineer,Virtusa,"Colombo, Sri Lanka",AWS; Azure; Kubernetes; Docker; Terraform; Ansible
+3,Cloud DevOps Engineer,IFS,"Colombo, Sri Lanka",Azure; Kubernetes; Docker; Terraform; Python; Jenkins
+4,DevOps Lead,99x,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; GitLab CI; Terraform; Python
+5,Platform Engineer,Sysco LABS,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Terraform; Go; Prometheus
+6,SRE,MillenniumIT,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Python; Terraform; Linux
+7,DevOps Engineer,Zone24x7,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Jenkins; Ansible; Python
+8,Cloud Engineer,Pearson Lanka,"Colombo, Sri Lanka",AWS; Azure; Kubernetes; Docker; Terraform; CI/CD
+9,DevOps Specialist,Calcey Technologies,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Jenkins; Python; Bash
+10,Infrastructure Engineer,Rootcode Labs,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Terraform; Python; Ansible
+11,DevOps Engineer,Accenture Sri Lanka,"Colombo, Sri Lanka",AWS; Azure; Kubernetes; Docker; Terraform; Jenkins
+12,Senior DevOps,Deloitte Sri Lanka,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Ansible; Python; GitLab CI
+13,Platform Engineer,HSBC Sri Lanka,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Terraform; Python; Jenkins
+14,DevOps Engineer,Citi Sri Lanka,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Python; Ansible; Jenkins
+15,Cloud DevOps,Standard Chartered Sri Lanka,"Colombo, Sri Lanka",AWS; Azure; Kubernetes; Docker; Terraform; Python
+16,SRE,Cambia Health Solutions,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Go; Terraform; Prometheus
+17,DevOps Lead,Arimac,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Jenkins; Python; Terraform
+18,DevOps Engineer,hSenid Software,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Jenkins; Java; Ansible
+19,Cloud Engineer,Codegen,"Colombo, Sri Lanka",AWS; Azure; Kubernetes; Docker; Terraform; Python
+20,Platform Engineer,Creative Software,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Jenkins; Python; Linux
+21,DevOps Engineer,Mitra Innovation,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Terraform; Python; CI/CD
+22,Senior DevOps,Axiata Digital Labs,"Colombo, Sri Lanka",AWS; GCP; Kubernetes; Docker; Terraform; Go
+23,DevOps Specialist,DirectFN,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Jenkins; Python; Ansible
+24,Cloud DevOps,Cambio Software,"Colombo, Sri Lanka",Azure; Kubernetes; Docker; Terraform; Python; Jenkins
+25,Infrastructure Engineer,Innodata,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Python; Ansible; Linux
+26,DevOps Engineer,Dialog Axiata,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Terraform; Python; Jenkins
+27,Platform Engineer,Mobitel,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Ansible; Python; Linux
+28,SRE,SLT Digital,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Terraform; Go; Prometheus
+29,DevOps Lead,Microimage,"Colombo, Sri Lanka",AWS; Azure; Kubernetes; Docker; Jenkins; Python
+30,Cloud Engineer,Brandix i3,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Terraform; Python; Ansible
+31,DevOps Engineer,Respitec,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Jenkins; Python; Bash
+32,Senior DevOps,Insighture,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Terraform; Python; Grafana
+33,Platform Engineer,Stax Inc,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Terraform; Go; CI/CD
+34,DevOps Specialist,Elegant Media,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Jenkins; Python; Ansible
+35,Cloud DevOps,Enactor,"Colombo, Sri Lanka",AWS; Azure; Kubernetes; Docker; Terraform; Java
+36,DevOps Engineer,Wavenet International,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Jenkins; Python; Linux
+37,Infrastructure Engineer,Anova Labs,"Colombo, Sri Lanka",AWS; GCP; Kubernetes; Docker; Terraform; Python
+38,DevOps Lead,CodeGen International,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Jenkins; Ansible; Python
+39,SRE,Wiley Global Technologies,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Terraform; Python; Prometheus
+40,DevOps Engineer,Tectera,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Jenkins; Python; Bash
+41,DevOps Engineer,WNS Sri Lanka,"Colombo, Sri Lanka",AWS; Azure; Kubernetes; Docker; Terraform; Python
+42,Platform Engineer,Genpact Lanka,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Jenkins; Ansible; Python
+43,Cloud DevOps,IQ-Hub,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Terraform; Python; Jenkins
+44,Senior DevOps,Eyepax IT Consulting,"Colombo, Sri Lanka",AWS; Kubernetes; Docker; Jenkins; Python; Linux
+45,DevOps Specialist,Circles.Life,"Colombo, Sri Lanka",GCP; Kubernetes; Docker; Terraform; Go; Prometheus
+46,DevOps Engineer,Kandy Cyber City,"Kandy, Sri Lanka",AWS; Kubernetes; Docker; Jenkins; Python; Ansible
+47,Cloud Engineer,Tech Solutions Kandy,"Kandy, Sri Lanka",AWS; Kubernetes; Docker; Terraform; Python; Linux
+48,DevOps Engineer,Southern IT Hub,"Galle, Sri Lanka",AWS; Kubernetes; Docker; Jenkins; Python; Bash
+49,Platform Engineer,Northern Tech Park,"Jaffna, Sri Lanka",AWS; Kubernetes; Docker; Terraform; Python; Ansible
+50,DevOps Engineer (Remote),PickMe,Remote - Sri Lanka,AWS; Kubernetes; Docker; Terraform; Go; Prometheus

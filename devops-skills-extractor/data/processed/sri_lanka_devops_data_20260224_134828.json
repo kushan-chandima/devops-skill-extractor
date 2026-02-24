@@ -1,0 +1,908 @@
+{
+  "report_metadata": {
+    "report_type": "Sri Lanka Local Jobs",
+    "generated_at": "2026-02-24T13:48:28.695546",
+    "total_job_postings": 50,
+    "unique_skills_count": 17,
+    "total_skill_mentions": 300
+  },
+  "skill_rankings": [
+    {
+      "rank": 1,
+      "skill": "Kubernetes",
+      "count": 50,
+      "percentage": 100.0
+    },
+    {
+      "rank": 2,
+      "skill": "Docker",
+      "count": 50,
+      "percentage": 100.0
+    },
+    {
+      "rank": 3,
+      "skill": "AWS",
+      "count": 47,
+      "percentage": 94.0
+    },
+    {
+      "rank": 4,
+      "skill": "Python",
+      "count": 38,
+      "percentage": 76.0
+    },
+    {
+      "rank": 5,
+      "skill": "Terraform",
+      "count": 30,
+      "percentage": 60.0
+    },
+    {
+      "rank": 6,
+      "skill": "Jenkins",
+      "count": 24,
+      "percentage": 48.0
+    },
+    {
+      "rank": 7,
+      "skill": "Ansible",
+      "count": 15,
+      "percentage": 30.0
+    },
+    {
+      "rank": 8,
+      "skill": "Azure",
+      "count": 10,
+      "percentage": 20.0
+    },
+    {
+      "rank": 9,
+      "skill": "Go",
+      "count": 7,
+      "percentage": 14.0
+    },
+    {
+      "rank": 10,
+      "skill": "Linux",
+      "count": 7,
+      "percentage": 14.0
+    },
+    {
+      "rank": 11,
+      "skill": "Prometheus",
+      "count": 6,
+      "percentage": 12.0
+    },
+    {
+      "rank": 12,
+      "skill": "CI/CD",
+      "count": 4,
+      "percentage": 8.0
+    },
+    {
+      "rank": 13,
+      "skill": "Bash",
+      "count": 4,
+      "percentage": 8.0
+    },
+    {
+      "rank": 14,
+      "skill": "GCP",
+      "count": 3,
+      "percentage": 6.0
+    },
+    {
+      "rank": 15,
+      "skill": "GitLab CI",
+      "count": 2,
+      "percentage": 4.0
+    },
+    {
+      "rank": 16,
+      "skill": "Java",
+      "count": 2,
+      "percentage": 4.0
+    },
+    {
+      "rank": 17,
+      "skill": "Grafana",
+      "count": 1,
+      "percentage": 2.0
+    }
+  ],
+  "skills_by_category": {
+    "Cloud Platforms": [
+      {
+        "skill": "AWS",
+        "count": 47
+      },
+      {
+        "skill": "Azure",
+        "count": 10
+      },
+      {
+        "skill": "GCP",
+        "count": 3
+      }
+    ],
+    "Containerization": [
+      {
+        "skill": "Kubernetes",
+        "count": 50
+      },
+      {
+        "skill": "Docker",
+        "count": 50
+      }
+    ],
+    "IaC & Config Management": [
+      {
+        "skill": "Terraform",
+        "count": 30
+      },
+      {
+        "skill": "Ansible",
+        "count": 15
+      }
+    ],
+    "CI/CD Tools": [
+      {
+        "skill": "Jenkins",
+        "count": 24
+      },
+      {
+        "skill": "CI/CD",
+        "count": 4
+      },
+      {
+        "skill": "GitLab CI",
+        "count": 2
+      }
+    ],
+    "Programming Languages": [
+      {
+        "skill": "Python",
+        "count": 38
+      },
+      {
+        "skill": "Go",
+        "count": 7
+      },
+      {
+        "skill": "Bash",
+        "count": 4
+      },
+      {
+        "skill": "Java",
+        "count": 2
+      }
+    ],
+    "Monitoring & Observability": [
+      {
+        "skill": "Prometheus",
+        "count": 6
+      },
+      {
+        "skill": "Grafana",
+        "count": 1
+      }
+    ],
+    "Operating Systems": [
+      {
+        "skill": "Linux",
+        "count": 7
+      }
+    ]
+  },
+  "job_postings": [
+    {
+      "title": "DevOps Engineer",
+      "company": "WSO2",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "Python",
+        "CI/CD"
+      ]
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Virtusa",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Ansible"
+      ]
+    },
+    {
+      "title": "Cloud DevOps Engineer",
+      "company": "IFS",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "Azure",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Python",
+        "Jenkins"
+      ]
+    },
+    {
+      "title": "DevOps Lead",
+      "company": "99x",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "GitLab CI",
+        "Terraform",
+        "Python"
+      ]
+    },
+    {
+      "title": "Platform Engineer",
+      "company": "Sysco LABS",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Go",
+        "Prometheus"
+      ]
+    },
+    {
+      "title": "SRE",
+      "company": "MillenniumIT",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Python",
+        "Terraform",
+        "Linux"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Zone24x7",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "Ansible",
+        "Python"
+      ]
+    },
+    {
+      "title": "Cloud Engineer",
+      "company": "Pearson Lanka",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "CI/CD"
+      ]
+    },
+    {
+      "title": "DevOps Specialist",
+      "company": "Calcey Technologies",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "Python",
+        "Bash"
+      ]
+    },
+    {
+      "title": "Infrastructure Engineer",
+      "company": "Rootcode Labs",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Python",
+        "Ansible"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Accenture Sri Lanka",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Jenkins"
+      ]
+    },
+    {
+      "title": "Senior DevOps",
+      "company": "Deloitte Sri Lanka",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Ansible",
+        "Python",
+        "GitLab CI"
+      ]
+    },
+    {
+      "title": "Platform Engineer",
+      "company": "HSBC Sri Lanka",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Python",
+        "Jenkins"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Citi Sri Lanka",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Python",
+        "Ansible",
+        "Jenkins"
+      ]
+    },
+    {
+      "title": "Cloud DevOps",
+      "company": "Standard Chartered Sri Lanka",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Python"
+      ]
+    },
+    {
+      "title": "SRE",
+      "company": "Cambia Health Solutions",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Go",
+        "Terraform",
+        "Prometheus"
+      ]
+    },
+    {
+      "title": "DevOps Lead",
+      "company": "Arimac",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "Python",
+        "Terraform"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "hSenid Software",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "Java",
+        "Ansible"
+      ]
+    },
+    {
+      "title": "Cloud Engineer",
+      "company": "Codegen",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Python"
+      ]
+    },
+    {
+      "title": "Platform Engineer",
+      "company": "Creative Software",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "Python",
+        "Linux"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Mitra Innovation",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Python",
+        "CI/CD"
+      ]
+    },
+    {
+      "title": "Senior DevOps",
+      "company": "Axiata Digital Labs",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "GCP",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Go"
+      ]
+    },
+    {
+      "title": "DevOps Specialist",
+      "company": "DirectFN",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "Python",
+        "Ansible"
+      ]
+    },
+    {
+      "title": "Cloud DevOps",
+      "company": "Cambio Software",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "Azure",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Python",
+        "Jenkins"
+      ]
+    },
+    {
+      "title": "Infrastructure Engineer",
+      "company": "Innodata",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Python",
+        "Ansible",
+        "Linux"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Dialog Axiata",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Python",
+        "Jenkins"
+      ]
+    },
+    {
+      "title": "Platform Engineer",
+      "company": "Mobitel",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Ansible",
+        "Python",
+        "Linux"
+      ]
+    },
+    {
+      "title": "SRE",
+      "company": "SLT Digital",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Go",
+        "Prometheus"
+      ]
+    },
+    {
+      "title": "DevOps Lead",
+      "company": "Microimage",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "Python"
+      ]
+    },
+    {
+      "title": "Cloud Engineer",
+      "company": "Brandix i3",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Python",
+        "Ansible"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Respitec",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "Python",
+        "Bash"
+      ]
+    },
+    {
+      "title": "Senior DevOps",
+      "company": "Insighture",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Python",
+        "Grafana"
+      ]
+    },
+    {
+      "title": "Platform Engineer",
+      "company": "Stax Inc",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Go",
+        "CI/CD"
+      ]
+    },
+    {
+      "title": "DevOps Specialist",
+      "company": "Elegant Media",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "Python",
+        "Ansible"
+      ]
+    },
+    {
+      "title": "Cloud DevOps",
+      "company": "Enactor",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Java"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Wavenet International",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "Python",
+        "Linux"
+      ]
+    },
+    {
+      "title": "Infrastructure Engineer",
+      "company": "Anova Labs",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "GCP",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Python"
+      ]
+    },
+    {
+      "title": "DevOps Lead",
+      "company": "CodeGen International",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "Ansible",
+        "Python"
+      ]
+    },
+    {
+      "title": "SRE",
+      "company": "Wiley Global Technologies",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Python",
+        "Prometheus"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Tectera",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "Python",
+        "Bash"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "WNS Sri Lanka",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Python"
+      ]
+    },
+    {
+      "title": "Platform Engineer",
+      "company": "Genpact Lanka",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "Ansible",
+        "Python"
+      ]
+    },
+    {
+      "title": "Cloud DevOps",
+      "company": "IQ-Hub",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Python",
+        "Jenkins"
+      ]
+    },
+    {
+      "title": "Senior DevOps",
+      "company": "Eyepax IT Consulting",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "Python",
+        "Linux"
+      ]
+    },
+    {
+      "title": "DevOps Specialist",
+      "company": "Circles.Life",
+      "location": "Colombo, Sri Lanka",
+      "skills": [
+        "GCP",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Go",
+        "Prometheus"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Kandy Cyber City",
+      "location": "Kandy, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "Python",
+        "Ansible"
+      ]
+    },
+    {
+      "title": "Cloud Engineer",
+      "company": "Tech Solutions Kandy",
+      "location": "Kandy, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Python",
+        "Linux"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Southern IT Hub",
+      "location": "Galle, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "Python",
+        "Bash"
+      ]
+    },
+    {
+      "title": "Platform Engineer",
+      "company": "Northern Tech Park",
+      "location": "Jaffna, Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Python",
+        "Ansible"
+      ]
+    },
+    {
+      "title": "DevOps Engineer (Remote)",
+      "company": "PickMe",
+      "location": "Remote - Sri Lanka",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Go",
+        "Prometheus"
+      ]
+    }
+  ],
+  "companies": [
+    "WSO2",
+    "Virtusa",
+    "IFS",
+    "99x",
+    "Sysco LABS",
+    "MillenniumIT",
+    "Zone24x7",
+    "Pearson Lanka",
+    "Calcey Technologies",
+    "Rootcode Labs",
+    "Accenture Sri Lanka",
+    "Deloitte Sri Lanka",
+    "HSBC Sri Lanka",
+    "Citi Sri Lanka",
+    "Standard Chartered Sri Lanka",
+    "Cambia Health Solutions",
+    "Arimac",
+    "hSenid Software",
+    "Codegen",
+    "Creative Software",
+    "Mitra Innovation",
+    "Axiata Digital Labs",
+    "DirectFN",
+    "Cambio Software",
+    "Innodata",
+    "Dialog Axiata",
+    "Mobitel",
+    "SLT Digital",
+    "Microimage",
+    "Brandix i3",
+    "Respitec",
+    "Insighture",
+    "Stax Inc",
+    "Elegant Media",
+    "Enactor",
+    "Wavenet International",
+    "Anova Labs",
+    "CodeGen International",
+    "Wiley Global Technologies",
+    "Tectera",
+    "WNS Sri Lanka",
+    "Genpact Lanka",
+    "IQ-Hub",
+    "Eyepax IT Consulting",
+    "Circles.Life",
+    "Kandy Cyber City",
+    "Tech Solutions Kandy",
+    "Southern IT Hub",
+    "Northern Tech Park",
+    "PickMe"
+  ],
+  "locations": {
+    "Colombo, Sri Lanka": 45,
+    "Kandy, Sri Lanka": 2,
+    "Galle, Sri Lanka": 1,
+    "Jaffna, Sri Lanka": 1,
+    "Remote - Sri Lanka": 1
+  }
+}

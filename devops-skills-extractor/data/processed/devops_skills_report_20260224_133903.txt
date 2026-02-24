@@ -1,0 +1,405 @@
+======================================================================
+DEVOPS SKILLS ANALYSIS REPORT
+Generated: 2026-02-24 13:39:03
+======================================================================
+
+----------------------------------------------------------------------
+EXECUTIVE SUMMARY
+----------------------------------------------------------------------
+Total Job Postings Analyzed: 40
+  - LinkedIn: 20 postings
+  - Glassdoor: 20 postings
+Unique Skills Identified: 38
+Total Skill Mentions: 240
+Average Skills per Job: 6.0
+
+----------------------------------------------------------------------
+TOP 15 MOST IN-DEMAND SKILLS
+----------------------------------------------------------------------
+Rank  Skill               Count     Percentage  Visualization
+----------------------------------------------------------------------
+1     Kubernetes          38          95.0%     ███████████████████████████████████████████████
+2     Docker              34          85.0%     ██████████████████████████████████████████
+3     AWS                 31          77.5%     ██████████████████████████████████████
+4     Terraform           26          65.0%     ████████████████████████████████
+5     Python              17          42.5%     █████████████████████
+6     Jenkins             11          27.5%     █████████████
+7     Ansible             9           22.5%     ███████████
+8     Go                  8           20.0%     ██████████
+9     Azure               6           15.0%     ███████
+10    GCP                 6           15.0%     ███████
+11    Prometheus          6           15.0%     ███████
+12    Linux               6           15.0%     ███████
+13    Java                5           12.5%     ██████
+14    Ruby                4           10.0%     █████
+15    CI/CD               3            7.5%     ███
+
+----------------------------------------------------------------------
+SKILLS BY CATEGORY
+----------------------------------------------------------------------
+
+Cloud Platforms:
+  AWS                        31 jobs ( 77.5%)
+  Azure                       6 jobs ( 15.0%)
+  GCP                         6 jobs ( 15.0%)
+  OCI                         1 jobs (  2.5%)
+  vSphere                     1 jobs (  2.5%)
+
+Containerization:
+  Kubernetes                 38 jobs ( 95.0%)
+  Docker                     34 jobs ( 85.0%)
+  OpenShift                   1 jobs (  2.5%)
+
+IaC & Config Management:
+  Terraform                  26 jobs ( 65.0%)
+  Ansible                     9 jobs ( 22.5%)
+  Chef                        2 jobs (  5.0%)
+  Puppet                      1 jobs (  2.5%)
+  Vault                       1 jobs (  2.5%)
+  Consul                      1 jobs (  2.5%)
+
+CI/CD Tools:
+  Jenkins                    11 jobs ( 27.5%)
+  CI/CD                       3 jobs (  7.5%)
+  GitLab CI                   2 jobs (  5.0%)
+  Spinnaker                   1 jobs (  2.5%)
+  Bamboo                      1 jobs (  2.5%)
+  Bitbucket                   1 jobs (  2.5%)
+
+Programming Languages:
+  Python                     17 jobs ( 42.5%)
+  Go                          8 jobs ( 20.0%)
+  Java                        5 jobs ( 12.5%)
+  Ruby                        4 jobs ( 10.0%)
+  Bash                        2 jobs (  5.0%)
+  PowerShell                  1 jobs (  2.5%)
+  Rust                        1 jobs (  2.5%)
+
+Monitoring & Observability:
+  Prometheus                  6 jobs ( 15.0%)
+  Grafana                     2 jobs (  5.0%)
+  DataDog                     1 jobs (  2.5%)
+  ELK Stack                   1 jobs (  2.5%)
+
+Version Control:
+  Git                         3 jobs (  7.5%)
+
+Operating Systems:
+  Linux                       6 jobs ( 15.0%)
+
+Messaging & Data:
+  Kafka                       2 jobs (  5.0%)
+  MongoDB                     1 jobs (  2.5%)
+
+Security:
+  Security                    1 jobs (  2.5%)
+
+Other:
+  Chaos Engineering           1 jobs (  2.5%)
+  Backstage                   1 jobs (  2.5%)
+
+----------------------------------------------------------------------
+JOB POSTINGS BY SOURCE
+----------------------------------------------------------------------
+
+LINKEDIN JOB POSTINGS:
+--------------------------------------------------
+ 1. Senior DevOps Engineer
+    Company: Amazon Web Services
+    Location: Seattle, WA
+    Skills: AWS, Docker, Kubernetes, Terraform, Python, CI/CD
+
+ 2. DevOps Engineer
+    Company: Microsoft
+    Location: Redmond, WA
+    Skills: Azure, Kubernetes, Docker, PowerShell, Git, Jenkins
+
+ 3. Cloud DevOps Engineer
+    Company: Google
+    Location: Mountain View, CA
+    Skills: GCP, Kubernetes, Terraform, Go, Prometheus, Grafana
+
+ 4. DevOps/SRE Engineer
+    Company: Netflix
+    Location: Los Gatos, CA
+    Skills: AWS, Docker, Kubernetes, Java, Spinnaker, Chaos Engineering
+
+ 5. Platform Engineer
+    Company: Spotify
+    Location: New York, NY
+    Skills: GCP, Kubernetes, Docker, Python, Terraform, Backstage
+
+ 6. DevOps Engineer II
+    Company: Meta
+    Location: Menlo Park, CA
+    Skills: Linux, Python, Docker, Kubernetes, CI/CD, Chef
+
+ 7. Infrastructure Engineer
+    Company: Apple
+    Location: Cupertino, CA
+    Skills: AWS, Terraform, Ansible, Python, Kubernetes, Jenkins
+
+ 8. Senior SRE
+    Company: Uber
+    Location: San Francisco, CA
+    Skills: AWS, Kubernetes, Go, Prometheus, Terraform, Docker
+
+ 9. DevOps Lead
+    Company: Airbnb
+    Location: San Francisco, CA
+    Skills: AWS, Kubernetes, Docker, Ruby, Terraform, DataDog
+
+10. Cloud Infrastructure Engineer
+    Company: Stripe
+    Location: San Francisco, CA
+    Skills: AWS, Terraform, Kubernetes, Ruby, Linux, Git
+
+11. DevOps Engineer
+    Company: Salesforce
+    Location: San Francisco, CA
+    Skills: AWS, Docker, Kubernetes, Jenkins, Ansible, Python
+
+12. Platform DevOps Engineer
+    Company: Adobe
+    Location: San Jose, CA
+    Skills: AWS, Azure, Kubernetes, Docker, Terraform, Java
+
+13. DevOps Specialist
+    Company: Oracle
+    Location: Austin, TX
+    Skills: OCI, Docker, Kubernetes, Ansible, Linux, Bash
+
+14. Senior DevOps Engineer
+    Company: IBM
+    Location: Armonk, NY
+    Skills: AWS, OpenShift, Docker, Jenkins, Python, Terraform
+
+15. DevOps Engineer
+    Company: Cisco
+    Location: San Jose, CA
+    Skills: AWS, Kubernetes, Docker, Ansible, Python, GitLab CI
+
+16. Cloud DevOps Architect
+    Company: VMware
+    Location: Palo Alto, CA
+    Skills: vSphere, Kubernetes, Terraform, Ansible, Python, AWS
+
+17. DevOps Engineer
+    Company: PayPal
+    Location: San Jose, CA
+    Skills: AWS, Docker, Kubernetes, Jenkins, Java, Terraform
+
+18. Infrastructure DevOps
+    Company: LinkedIn
+    Location: Sunnyvale, CA
+    Skills: Azure, Kubernetes, Docker, Ansible, Python, Kafka
+
+19. DevOps Engineer
+    Company: Twitter
+    Location: San Francisco, CA
+    Skills: GCP, Kubernetes, Docker, Go, Terraform, Prometheus
+
+20. Senior Platform Engineer
+    Company: Dropbox
+    Location: San Francisco, CA
+    Skills: AWS, Kubernetes, Docker, Python, Terraform, Rust
+
+
+GLASSDOOR JOB POSTINGS:
+--------------------------------------------------
+ 1. DevOps Engineer
+    Company: Accenture
+    Location: Chicago, IL
+    Skills: AWS, Docker, Kubernetes, Jenkins, Terraform, Linux
+
+ 2. Senior DevOps Engineer
+    Company: Deloitte
+    Location: New York, NY
+    Skills: Azure, Docker, Kubernetes, Ansible, Python, Git
+
+ 3. Cloud DevOps Engineer
+    Company: Capgemini
+    Location: Dallas, TX
+    Skills: AWS, GCP, Terraform, Docker, Kubernetes, Jenkins
+
+ 4. DevOps Architect
+    Company: Infosys
+    Location: Atlanta, GA
+    Skills: AWS, Azure, Docker, Kubernetes, Ansible, Chef
+
+ 5. DevOps Engineer
+    Company: Cognizant
+    Location: Boston, MA
+    Skills: AWS, Docker, Jenkins, Puppet, Linux, Bash
+
+ 6. Site Reliability Engineer
+    Company: Splunk
+    Location: San Francisco, CA
+    Skills: AWS, Kubernetes, Docker, Go, Terraform, Prometheus
+
+ 7. DevOps Engineer
+    Company: Atlassian
+    Location: Austin, TX
+    Skills: AWS, Docker, Kubernetes, Bamboo, Bitbucket, Python
+
+ 8. Platform Engineer
+    Company: Snowflake
+    Location: San Mateo, CA
+    Skills: AWS, Kubernetes, Terraform, Python, Docker, CI/CD
+
+ 9. DevOps Specialist
+    Company: Workday
+    Location: Pleasanton, CA
+    Skills: AWS, Docker, Kubernetes, Ansible, Java, Jenkins
+
+10. Cloud Infrastructure Engineer
+    Company: ServiceNow
+    Location: Santa Clara, CA
+    Skills: AWS, Azure, Kubernetes, Terraform, Python, Linux
+
+11. DevOps Engineer
+    Company: Palo Alto Networks
+    Location: Santa Clara, CA
+    Skills: AWS, Docker, Kubernetes, Jenkins, Python, Security
+
+12. Senior DevOps Engineer
+    Company: Twilio
+    Location: San Francisco, CA
+    Skills: AWS, Kubernetes, Docker, Terraform, Go, Prometheus
+
+13. DevOps Engineer II
+    Company: Box
+    Location: Redwood City, CA
+    Skills: AWS, Docker, Kubernetes, Jenkins, Ruby, Terraform
+
+14. Infrastructure Engineer
+    Company: Datadog
+    Location: New York, NY
+    Skills: AWS, GCP, Kubernetes, Docker, Go, Terraform
+
+15. DevOps Lead
+    Company: HashiCorp
+    Location: San Francisco, CA
+    Skills: Terraform, Vault, Consul, Kubernetes, AWS, Go
+
+16. Cloud DevOps Engineer
+    Company: MongoDB
+    Location: New York, NY
+    Skills: AWS, Kubernetes, Docker, Terraform, Python, MongoDB
+
+17. DevOps Engineer
+    Company: Elastic
+    Location: Mountain View, CA
+    Skills: AWS, Kubernetes, Docker, ELK Stack, Terraform, Python
+
+18. Platform DevOps
+    Company: GitLab
+    Location: Remote
+    Skills: GCP, Kubernetes, Docker, GitLab CI, Terraform, Ruby
+
+19. DevOps Engineer
+    Company: Confluent
+    Location: Mountain View, CA
+    Skills: AWS, Kubernetes, Docker, Kafka, Terraform, Java
+
+20. Senior SRE/DevOps
+    Company: New Relic
+    Location: Portland, OR
+    Skills: AWS, Kubernetes, Docker, Go, Prometheus, Grafana
+
+
+----------------------------------------------------------------------
+COMPANIES HIRING
+----------------------------------------------------------------------
+  Accenture
+  Adobe
+  Airbnb
+  Amazon Web Services
+  Apple
+  Atlassian
+  Box
+  Capgemini
+  Cisco
+  Cognizant
+  Confluent
+  Datadog
+  Deloitte
+  Dropbox
+  Elastic
+  GitLab
+  Google
+  HashiCorp
+  IBM
+  Infosys
+  LinkedIn
+  Meta
+  Microsoft
+  MongoDB
+  Netflix
+  New Relic
+  Oracle
+  Palo Alto Networks
+  PayPal
+  Salesforce
+  ServiceNow
+  Snowflake
+  Splunk
+  Spotify
+  Stripe
+  Twilio
+  Twitter
+  Uber
+  VMware
+  Workday
+
+----------------------------------------------------------------------
+JOB LOCATIONS
+----------------------------------------------------------------------
+  San Francisco, CA: 9 job(s)
+  New York, NY: 4 job(s)
+  Mountain View, CA: 3 job(s)
+  San Jose, CA: 3 job(s)
+  Austin, TX: 2 job(s)
+  Santa Clara, CA: 2 job(s)
+  Seattle, WA: 1 job(s)
+  Redmond, WA: 1 job(s)
+  Los Gatos, CA: 1 job(s)
+  Menlo Park, CA: 1 job(s)
+  Cupertino, CA: 1 job(s)
+  Armonk, NY: 1 job(s)
+  Palo Alto, CA: 1 job(s)
+  Sunnyvale, CA: 1 job(s)
+  Chicago, IL: 1 job(s)
+  Dallas, TX: 1 job(s)
+  Atlanta, GA: 1 job(s)
+  Boston, MA: 1 job(s)
+  San Mateo, CA: 1 job(s)
+  Pleasanton, CA: 1 job(s)
+  Redwood City, CA: 1 job(s)
+  Remote: 1 job(s)
+  Portland, OR: 1 job(s)
+
+----------------------------------------------------------------------
+KEY INSIGHTS & RECOMMENDATIONS
+----------------------------------------------------------------------
+
+1. MUST-HAVE SKILLS: Kubernetes, Docker, AWS
+   These appear in 38-31 out of 40 job postings
+
+2. DOMINANT CLOUD PLATFORM: AWS
+   AWS is required in 31 jobs (77.5%)
+
+3. CONTAINERIZATION IS ESSENTIAL:
+   - Kubernetes: 38 jobs (95.0%)
+   - Docker: 34 jobs (85.0%)
+   - OpenShift: 1 jobs (2.5%)
+
+4. INFRASTRUCTURE AS CODE:
+   Terraform and Ansible dominate the IaC space
+
+5. PROGRAMMING SKILLS:
+   Top languages: Python, Go, Java
+
+======================================================================
+END OF REPORT
+======================================================================

@@ -1,0 +1,39 @@
+Rank,Skill,Job Count,Percentage,Category
+1,Kubernetes,38,95.0%,Containerization
+2,Docker,34,85.0%,Containerization
+3,AWS,31,77.5%,Cloud Platforms
+4,Terraform,26,65.0%,IaC & Config Management
+5,Python,17,42.5%,Programming Languages
+6,Jenkins,11,27.5%,CI/CD Tools
+7,Ansible,9,22.5%,IaC & Config Management
+8,Go,8,20.0%,Programming Languages
+9,Azure,6,15.0%,Cloud Platforms
+10,GCP,6,15.0%,Cloud Platforms
+11,Prometheus,6,15.0%,Monitoring & Observability
+12,Linux,6,15.0%,Operating Systems
+13,Java,5,12.5%,Programming Languages
+14,Ruby,4,10.0%,Programming Languages
+15,CI/CD,3,7.5%,CI/CD Tools
+16,Git,3,7.5%,Version Control
+17,Grafana,2,5.0%,Monitoring & Observability
+18,Chef,2,5.0%,IaC & Config Management
+19,Bash,2,5.0%,Programming Languages
+20,GitLab CI,2,5.0%,CI/CD Tools
+21,Kafka,2,5.0%,Messaging & Data
+22,PowerShell,1,2.5%,Programming Languages
+23,Spinnaker,1,2.5%,CI/CD Tools
+24,Chaos Engineering,1,2.5%,Other
+25,Backstage,1,2.5%,Other
+26,DataDog,1,2.5%,Monitoring & Observability
+27,OCI,1,2.5%,Cloud Platforms
+28,OpenShift,1,2.5%,Containerization
+29,vSphere,1,2.5%,Cloud Platforms
+30,Rust,1,2.5%,Programming Languages
+31,Puppet,1,2.5%,IaC & Config Management
+32,Bamboo,1,2.5%,CI/CD Tools
+33,Bitbucket,1,2.5%,CI/CD Tools
+34,Security,1,2.5%,Security
+35,Vault,1,2.5%,IaC & Config Management
+36,Consul,1,2.5%,IaC & Config Management
+37,MongoDB,1,2.5%,Messaging & Data
+38,ELK Stack,1,2.5%,Monitoring & Observability

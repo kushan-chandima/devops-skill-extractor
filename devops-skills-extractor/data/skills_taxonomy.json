@@ -1,0 +1,64 @@
+{
+  "skills": {
+    "programming_languages": [
+      "Python",
+      "Java",
+      "Go",
+      "Ruby",
+      "JavaScript"
+    ],
+    "cloud_platforms": [
+      "AWS",
+      "Azure",
+      "Google Cloud Platform"
+    ],
+    "containerization": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "configuration_management": [
+      "Ansible",
+      "Chef",
+      "Puppet"
+    ],
+    "CI_CD_tools": [
+      "Jenkins",
+      "GitLab CI",
+      "CircleCI"
+    ],
+    "monitoring_tools": [
+      "Prometheus",
+      "Grafana",
+      "ELK Stack"
+    ],
+    "version_control": [
+      "Git",
+      "GitHub",
+      "Bitbucket"
+    ],
+    "scripting": [
+      "Bash",
+      "PowerShell"
+    ],
+    "databases": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "networking": [
+      "TCP/IP",
+      "DNS",
+      "HTTP/HTTPS"
+    ],
+    "security": [
+      "IAM",
+      "VPN",
+      "Firewalls"
+    ],
+    "soft_skills": [
+      "Collaboration",
+      "Problem-solving",
+      "Communication"
+    ]
+  }
+}

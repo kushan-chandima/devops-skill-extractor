@@ -392,8 +392,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - LinkedIn and Glassdoor for job posting data
 - The open-source community for invaluable tools and libraries
-- All contributors who help improve this project
 
----
-
-**Made with ❤️ for the DevOps community**

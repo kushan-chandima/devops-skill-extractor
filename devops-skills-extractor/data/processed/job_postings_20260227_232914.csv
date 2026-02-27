@@ -1,0 +1,191 @@
+Source,Title,Company,Location,Skills
+LinkedIn,Senior DevOps Engineer,Amazon Web Services,"Seattle, WA",AWS; Docker; Kubernetes; Terraform; Python; CI/CD
+LinkedIn,DevOps Engineer,Microsoft,"Redmond, WA",Azure; Kubernetes; Docker; PowerShell; Git; Jenkins
+LinkedIn,Cloud DevOps Engineer,Google,"Mountain View, CA",GCP; Kubernetes; Terraform; Go; Prometheus; Grafana
+LinkedIn,DevOps/SRE Engineer,Netflix,"Los Gatos, CA",AWS; Docker; Kubernetes; Java; Spinnaker; Chaos Engineering
+LinkedIn,Platform Engineer,Spotify,"New York, NY",GCP; Kubernetes; Docker; Python; Terraform; Backstage
+LinkedIn,DevOps Engineer II,Meta,"Menlo Park, CA",Linux; Python; Docker; Kubernetes; CI/CD; Chef
+LinkedIn,Infrastructure Engineer,Apple,"Cupertino, CA",AWS; Terraform; Ansible; Python; Kubernetes; Jenkins
+LinkedIn,Senior SRE,Uber,"San Francisco, CA",AWS; Kubernetes; Go; Prometheus; Terraform; Docker
+LinkedIn,DevOps Lead,Airbnb,"San Francisco, CA",AWS; Kubernetes; Docker; Ruby; Terraform; DataDog
+LinkedIn,Cloud Infrastructure Engineer,Stripe,"San Francisco, CA",AWS; Terraform; Kubernetes; Ruby; Linux; Git
+LinkedIn,DevOps Engineer,Salesforce,"San Francisco, CA",AWS; Docker; Kubernetes; Jenkins; Ansible; Python
+LinkedIn,Platform DevOps Engineer,Adobe,"San Jose, CA",AWS; Azure; Kubernetes; Docker; Terraform; Java
+LinkedIn,DevOps Specialist,Oracle,"Austin, TX",OCI; Docker; Kubernetes; Ansible; Linux; Bash
+LinkedIn,Senior DevOps Engineer,IBM,"Armonk, NY",AWS; OpenShift; Docker; Jenkins; Python; Terraform
+LinkedIn,DevOps Engineer,Cisco,"San Jose, CA",AWS; Kubernetes; Docker; Ansible; Python; GitLab CI
+LinkedIn,Cloud DevOps Architect,VMware,"Palo Alto, CA",vSphere; Kubernetes; Terraform; Ansible; Python; AWS
+LinkedIn,DevOps Engineer,PayPal,"San Jose, CA",AWS; Docker; Kubernetes; Jenkins; Java; Terraform
+LinkedIn,Infrastructure DevOps,LinkedIn,"Sunnyvale, CA",Azure; Kubernetes; Docker; Ansible; Python; Kafka
+LinkedIn,DevOps Engineer,Twitter/X,"San Francisco, CA",GCP; Kubernetes; Docker; Go; Terraform; Prometheus
+LinkedIn,Senior Platform Engineer,Dropbox,"San Francisco, CA",AWS; Kubernetes; Docker; Python; Terraform; Rust
+LinkedIn,DevOps Engineer,Goldman Sachs,"New York, NY",AWS; Kubernetes; Docker; Python; Terraform; Jenkins
+LinkedIn,Cloud Platform Engineer,JP Morgan Chase,"New York, NY",AWS; Azure; Kubernetes; Docker; Ansible; Python
+LinkedIn,SRE DevOps,Morgan Stanley,"New York, NY",AWS; Kubernetes; Docker; Java; Terraform; Splunk
+LinkedIn,DevOps Engineer,Capital One,"McLean, VA",AWS; Kubernetes; Docker; Python; Jenkins; Terraform
+LinkedIn,Platform Engineer,Fidelity Investments,"Boston, MA",AWS; Kubernetes; Docker; Ansible; Python; GitLab CI
+LinkedIn,DevOps Lead,American Express,"New York, NY",AWS; Kubernetes; Docker; Java; Terraform; Jenkins
+LinkedIn,Cloud DevOps Engineer,Visa,"San Francisco, CA",AWS; Kubernetes; Docker; Python; Terraform; Prometheus
+LinkedIn,Infrastructure Engineer,Mastercard,"Purchase, NY",AWS; Kubernetes; Docker; Ansible; Python; Jenkins
+LinkedIn,Senior DevOps,Citadel,"Chicago, IL",AWS; Kubernetes; Docker; Python; Terraform; Linux
+LinkedIn,DevOps Engineer,Bloomberg,"New York, NY",AWS; Kubernetes; Docker; Python; Jenkins; Ansible
+LinkedIn,DevOps Engineer,Walmart Labs,"Sunnyvale, CA",Azure; Kubernetes; Docker; Java; Terraform; Jenkins
+LinkedIn,Cloud Platform Engineer,Target,"Minneapolis, MN",GCP; Kubernetes; Docker; Python; Terraform; Ansible
+LinkedIn,Senior SRE,eBay,"San Jose, CA",Kubernetes; Docker; AWS; Java; Terraform; Prometheus
+LinkedIn,DevOps Engineer,Shopify,"Ottawa, Canada",GCP; Kubernetes; Docker; Ruby; Terraform; Datadog
+LinkedIn,Platform Engineer,Etsy,"Brooklyn, NY",GCP; Kubernetes; Docker; Python; Terraform; Chef
+LinkedIn,Senior DevOps Engineer,Snowflake,"San Mateo, CA",AWS; Azure; Kubernetes; Docker; Terraform; Python
+LinkedIn,DevOps Engineer,Databricks,"San Francisco, CA",AWS; Azure; Kubernetes; Docker; Terraform; Scala
+LinkedIn,SRE,Cloudflare,"San Francisco, CA",Linux; Kubernetes; Docker; Go; Terraform; Nginx
+LinkedIn,DevOps Engineer,Datadog,"New York, NY",AWS; Kubernetes; Docker; Go; Terraform; Python
+LinkedIn,Platform Engineer,PagerDuty,"San Francisco, CA",AWS; Kubernetes; Docker; Ruby; Terraform; Chef
+LinkedIn,DevOps Lead,Splunk,"San Francisco, CA",AWS; Kubernetes; Docker; Python; Ansible; Jenkins
+LinkedIn,Cloud Engineer,New Relic,"Portland, OR",AWS; Kubernetes; Docker; Go; Terraform; Prometheus
+LinkedIn,DevOps Engineer,Sumo Logic,"Redwood City, CA",AWS; Kubernetes; Docker; Python; Terraform; Jenkins
+LinkedIn,SRE,Elastic,"Mountain View, CA",AWS; GCP; Kubernetes; Docker; Terraform; Java
+LinkedIn,DevOps Engineer,MongoDB,"New York, NY",AWS; Kubernetes; Docker; Go; Terraform; MongoDB
+LinkedIn,DevOps Engineer,ServiceNow,"Santa Clara, CA",AWS; Azure; Kubernetes; Docker; Ansible; Python
+LinkedIn,Platform Engineer,Workday,"Pleasanton, CA",AWS; Kubernetes; Docker; Java; Terraform; Jenkins
+LinkedIn,Senior DevOps,SAP,"Palo Alto, CA",AWS; Azure; Kubernetes; Docker; Terraform; Python
+LinkedIn,DevOps Engineer,Intuit,"Mountain View, CA",AWS; Kubernetes; Docker; Python; Terraform; Argo CD
+LinkedIn,Cloud DevOps,Zendesk,"San Francisco, CA",AWS; Kubernetes; Docker; Ruby; Terraform; Datadog
+LinkedIn,DevSecOps Engineer,CrowdStrike,"Sunnyvale, CA",AWS; Kubernetes; Docker; Go; Terraform; Security
+LinkedIn,DevOps Engineer,Palo Alto Networks,"Santa Clara, CA",AWS; Kubernetes; Docker; Python; Ansible; Security
+LinkedIn,SRE,Okta,"San Francisco, CA",AWS; Kubernetes; Docker; Go; Terraform; Python
+LinkedIn,Platform Engineer,Fortinet,"Sunnyvale, CA",AWS; Kubernetes; Docker; Python; Ansible; Linux
+LinkedIn,DevOps Lead,Zscaler,"San Jose, CA",AWS; Azure; Kubernetes; Docker; Terraform; Python
+LinkedIn,DevOps Engineer,Electronic Arts,"Redwood City, CA",AWS; Kubernetes; Docker; Python; Terraform; Jenkins
+LinkedIn,Platform Engineer,Activision Blizzard,"Santa Monica, CA",AWS; Kubernetes; Docker; Go; Terraform; Ansible
+LinkedIn,SRE,Riot Games,"Los Angeles, CA",AWS; Kubernetes; Docker; Go; Terraform; Prometheus
+LinkedIn,DevOps Engineer,Epic Games,"Cary, NC",AWS; Kubernetes; Docker; Python; Terraform; Jenkins
+LinkedIn,Cloud Engineer,Unity,"San Francisco, CA",GCP; Kubernetes; Docker; Python; Terraform; Grafana
+LinkedIn,DevOps Engineer,Moderna,"Cambridge, MA",AWS; Kubernetes; Docker; Python; Terraform; Jenkins
+LinkedIn,Platform Engineer,Illumina,"San Diego, CA",AWS; Kubernetes; Docker; Python; Ansible; Linux
+LinkedIn,SRE,Genentech,"South San Francisco, CA",GCP; Kubernetes; Docker; Python; Terraform; Grafana
+LinkedIn,DevOps Lead,Amgen,"Thousand Oaks, CA",AWS; Kubernetes; Docker; Python; Terraform; Jenkins
+LinkedIn,Cloud DevOps,Pfizer,"New York, NY",AWS; Azure; Kubernetes; Docker; Ansible; Python
+LinkedIn,DevOps Consultant,Accenture,"Chicago, IL",AWS; Azure; Kubernetes; Docker; Terraform; Python
+LinkedIn,Cloud Engineer,Deloitte,"New York, NY",AWS; Azure; Kubernetes; Docker; Ansible; Jenkins
+LinkedIn,DevOps Engineer,Capgemini,"Dallas, TX",AWS; GCP; Kubernetes; Docker; Terraform; Python
+LinkedIn,SRE Consultant,KPMG,"New York, NY",AWS; Azure; Kubernetes; Docker; Terraform; Ansible
+LinkedIn,Platform Engineer,PwC,"New York, NY",AWS; Azure; Kubernetes; Docker; Python; Jenkins
+LinkedIn,DevOps Engineer,AT&T,"Dallas, TX",AWS; Kubernetes; Docker; Ansible; Python; Jenkins
+LinkedIn,Cloud Platform Engineer,Verizon,"Basking Ridge, NJ",AWS; Azure; Kubernetes; Docker; Terraform; 5G
+LinkedIn,SRE,T-Mobile,"Bellevue, WA",AWS; Kubernetes; Docker; Python; Terraform; Prometheus
+LinkedIn,DevOps Engineer,Comcast,"Philadelphia, PA",AWS; Kubernetes; Docker; Python; Jenkins; Ansible
+LinkedIn,Platform Engineer,Disney,"Burbank, CA",AWS; Kubernetes; Docker; Java; Terraform; Jenkins
+LinkedIn,DevOps Engineer,Figma,"San Francisco, CA",AWS; Kubernetes; Docker; Ruby; Terraform; Datadog
+LinkedIn,SRE,Notion,"San Francisco, CA",AWS; Kubernetes; Docker; Go; Terraform; PostgreSQL
+LinkedIn,Platform Engineer,Airtable,"San Francisco, CA",AWS; Kubernetes; Docker; Python; Terraform; Redis
+LinkedIn,DevOps Lead,Canva,"Sydney, Australia",AWS; Kubernetes; Docker; Python; Terraform; Datadog
+LinkedIn,Cloud Engineer,Miro,"San Francisco, CA",AWS; Kubernetes; Docker; Go; Terraform; Prometheus
+LinkedIn,DevOps Engineer,Plaid,"San Francisco, CA",AWS; Kubernetes; Docker; Go; Terraform; Python
+LinkedIn,SRE,Ramp,"New York, NY",AWS; Kubernetes; Docker; Python; Terraform; Argo CD
+LinkedIn,Platform Engineer,Brex,"San Francisco, CA",AWS; Kubernetes; Docker; Go; Terraform; Datadog
+LinkedIn,DevOps Engineer,Scale AI,"San Francisco, CA",AWS; GCP; Kubernetes; Docker; Terraform; Python
+LinkedIn,Cloud DevOps,OpenAI,"San Francisco, CA",Azure; Kubernetes; Docker; Python; Terraform; GPU
+LinkedIn,DevOps Engineer,Siemens,"Munich, Germany",AWS; Azure; Kubernetes; Docker; Terraform; Python
+LinkedIn,SRE,SAP,"Walldorf, Germany",AWS; Kubernetes; Docker; Go; Terraform; Prometheus
+LinkedIn,Platform Engineer,Spotify,"Stockholm, Sweden",GCP; Kubernetes; Docker; Python; Terraform; Backstage
+LinkedIn,DevOps Engineer,Klarna,"Stockholm, Sweden",AWS; Kubernetes; Docker; Python; Terraform; Kafka
+LinkedIn,Cloud Engineer,HSBC,"London, UK",AWS; Azure; Kubernetes; Docker; Terraform; Python
+LinkedIn,DevOps Lead,Barclays,"London, UK",AWS; Kubernetes; Docker; Java; Terraform; Jenkins
+LinkedIn,SRE,Revolut,"London, UK",GCP; Kubernetes; Docker; Go; Terraform; Prometheus
+LinkedIn,DevOps Engineer,Wise,"London, UK",AWS; Kubernetes; Docker; Python; Terraform; PostgreSQL
+LinkedIn,Platform Engineer,Rakuten,"Tokyo, Japan",AWS; OpenShift; Docker; Java; Ansible; Jenkins
+LinkedIn,DevOps Engineer,Grab,Singapore,AWS; Kubernetes; Docker; Go; Terraform; Kafka
+Glassdoor,DevOps Engineer,Accenture,"Chicago, IL",AWS; Docker; Kubernetes; Jenkins; Terraform; Linux
+Glassdoor,Senior DevOps Engineer,Deloitte,"New York, NY",Azure; Docker; Kubernetes; Ansible; Python; Git
+Glassdoor,Cloud DevOps Engineer,Capgemini,"Dallas, TX",AWS; GCP; Terraform; Docker; Kubernetes; Jenkins
+Glassdoor,DevOps Architect,Infosys,"Atlanta, GA",AWS; Azure; Docker; Kubernetes; Ansible; Chef
+Glassdoor,DevOps Engineer,Cognizant,"Boston, MA",AWS; Docker; Jenkins; Puppet; Linux; Bash
+Glassdoor,Platform Engineer,TCS,"Edison, NJ",AWS; Azure; Kubernetes; Docker; Terraform; Python
+Glassdoor,DevOps Consultant,Wipro,"Houston, TX",AWS; Kubernetes; Docker; Ansible; Jenkins; Linux
+Glassdoor,Cloud Engineer,HCL Technologies,"Cary, NC",AWS; Azure; Kubernetes; Docker; Terraform; Python
+Glassdoor,DevOps Specialist,Tech Mahindra,"Santa Clara, CA",AWS; Kubernetes; Docker; Jenkins; Ansible; Python
+Glassdoor,SRE,LTIMindtree,"Warren, NJ",AWS; Kubernetes; Docker; Terraform; Prometheus; Go
+Glassdoor,Site Reliability Engineer,Splunk,"San Francisco, CA",AWS; Kubernetes; Docker; Go; Terraform; Prometheus
+Glassdoor,DevOps Engineer,Atlassian,"Austin, TX",AWS; Docker; Kubernetes; Bamboo; Bitbucket; Python
+Glassdoor,Platform Engineer,Snowflake,"San Mateo, CA",AWS; Kubernetes; Terraform; Python; Docker; CI/CD
+Glassdoor,DevOps Specialist,Workday,"Pleasanton, CA",AWS; Docker; Kubernetes; Ansible; Java; Jenkins
+Glassdoor,Cloud Infrastructure Engineer,ServiceNow,"Santa Clara, CA",AWS; Azure; Kubernetes; Terraform; Python; Linux
+Glassdoor,DevOps Engineer,Palo Alto Networks,"Santa Clara, CA",AWS; Docker; Kubernetes; Jenkins; Python; Security
+Glassdoor,Senior DevOps Engineer,Twilio,"San Francisco, CA",AWS; Kubernetes; Docker; Terraform; Go; Prometheus
+Glassdoor,DevOps Engineer II,Box,"Redwood City, CA",AWS; Docker; Kubernetes; Jenkins; Ruby; Terraform
+Glassdoor,Infrastructure Engineer,Datadog,"New York, NY",AWS; GCP; Kubernetes; Docker; Go; Terraform
+Glassdoor,DevOps Lead,HashiCorp,"San Francisco, CA",Terraform; Vault; Consul; Kubernetes; AWS; Go
+Glassdoor,Cloud DevOps Engineer,MongoDB,"New York, NY",AWS; Kubernetes; Docker; Terraform; Python; MongoDB
+Glassdoor,DevOps Engineer,Elastic,"Mountain View, CA",AWS; Kubernetes; Docker; ELK Stack; Terraform; Python
+Glassdoor,Platform DevOps,GitLab,Remote,GCP; Kubernetes; Docker; GitLab CI; Terraform; Ruby
+Glassdoor,DevOps Engineer,Confluent,"Mountain View, CA",AWS; Kubernetes; Docker; Kafka; Terraform; Java
+Glassdoor,Senior SRE/DevOps,New Relic,"Portland, OR",AWS; Kubernetes; Docker; Go; Prometheus; Grafana
+Glassdoor,DevOps Engineer,Wayfair,"Boston, MA",GCP; Kubernetes; Docker; Terraform; Python; Jenkins
+Glassdoor,Platform Engineer,Instacart,"San Francisco, CA",AWS; Kubernetes; Docker; Terraform; Ruby; Datadog
+Glassdoor,SRE,DoorDash,"San Francisco, CA",AWS; Kubernetes; Docker; Go; Terraform; Prometheus
+Glassdoor,DevOps Engineer,Lyft,"San Francisco, CA",AWS; Kubernetes; Docker; Go; Terraform; Envoy
+Glassdoor,Cloud Engineer,Chewy,"Plantation, FL",AWS; Kubernetes; Docker; Terraform; Python; Jenkins
+Glassdoor,DevOps Engineer,Square,"San Francisco, CA",AWS; Kubernetes; Docker; Ruby; Terraform; Prometheus
+Glassdoor,Platform Engineer,Robinhood,"Menlo Park, CA",AWS; Kubernetes; Docker; Python; Terraform; Kafka
+Glassdoor,SRE,Coinbase,"San Francisco, CA",AWS; Kubernetes; Docker; Go; Terraform; Datadog
+Glassdoor,DevOps Lead,Chime,"San Francisco, CA",AWS; Kubernetes; Docker; Python; Terraform; Jenkins
+Glassdoor,Cloud DevOps,SoFi,"San Francisco, CA",AWS; Kubernetes; Docker; Terraform; Java; Jenkins
+Glassdoor,DevOps Engineer,Affirm,"San Francisco, CA",AWS; Kubernetes; Docker; Python; Terraform; Ansible
+Glassdoor,Infrastructure Engineer,Marqeta,"Oakland, CA",AWS; Kubernetes; Docker; Python; Terraform; Datadog
+Glassdoor,SRE,Adyen,"San Francisco, CA",AWS; Kubernetes; Docker; Java; Terraform; Prometheus
+Glassdoor,Platform Engineer,Toast,"Boston, MA",AWS; Kubernetes; Docker; Python; Terraform; Jenkins
+Glassdoor,DevOps Engineer,Bill.com,"San Jose, CA",AWS; Kubernetes; Docker; Python; Terraform; Ansible
+Glassdoor,DevOps Engineer,Epic Systems,"Madison, WI",Azure; Kubernetes; Docker; Python; Terraform; Jenkins
+Glassdoor,Platform Engineer,Veeva Systems,"Pleasanton, CA",AWS; Kubernetes; Docker; Java; Terraform; Jenkins
+Glassdoor,SRE,Cerner,"Kansas City, MO",AWS; Kubernetes; Docker; Python; Ansible; Jenkins
+Glassdoor,Cloud DevOps,Teladoc Health,"Purchase, NY",AWS; Kubernetes; Docker; Terraform; Python; Datadog
+Glassdoor,DevOps Engineer,Oscar Health,"New York, NY",AWS; Kubernetes; Docker; Python; Terraform; Jenkins
+Glassdoor,DevOps Engineer,Tesla,"Palo Alto, CA",AWS; Kubernetes; Docker; Python; Terraform; Jenkins
+Glassdoor,Platform Engineer,Rivian,"Irvine, CA",AWS; Kubernetes; Docker; Python; Terraform; Ansible
+Glassdoor,SRE,Lucid Motors,"Newark, CA",AWS; Kubernetes; Docker; Go; Terraform; Prometheus
+Glassdoor,Cloud DevOps,Ford,"Dearborn, MI",AWS; Azure; Kubernetes; Docker; Terraform; Jenkins
+Glassdoor,DevOps Engineer,General Motors,"Detroit, MI",GCP; Kubernetes; Docker; Python; Terraform; Ansible
+Glassdoor,DevOps Engineer,Hulu,"Santa Monica, CA",AWS; Kubernetes; Docker; Python; Terraform; Spinnaker
+Glassdoor,Platform Engineer,Warner Bros Discovery,"New York, NY",AWS; Kubernetes; Docker; Go; Terraform; Jenkins
+Glassdoor,SRE,NBCUniversal,"New York, NY",AWS; Kubernetes; Docker; Python; Terraform; Datadog
+Glassdoor,Cloud DevOps,ViacomCBS,"New York, NY",AWS; Kubernetes; Docker; Terraform; Python; Jenkins
+Glassdoor,DevOps Engineer,Sony,"San Mateo, CA",AWS; Kubernetes; Docker; Java; Terraform; Ansible
+Glassdoor,DevOps Engineer,NVIDIA,"Santa Clara, CA",AWS; Kubernetes; Docker; Python; Terraform; GPU
+Glassdoor,Platform Engineer,AMD,"Santa Clara, CA",AWS; Kubernetes; Docker; Python; Ansible; Jenkins
+Glassdoor,SRE,Intel,"Santa Clara, CA",AWS; Kubernetes; Docker; Python; Terraform; Prometheus
+Glassdoor,Cloud DevOps,Qualcomm,"San Diego, CA",AWS; Kubernetes; Docker; Python; Terraform; Jenkins
+Glassdoor,DevOps Engineer,Broadcom,"San Jose, CA",AWS; Kubernetes; Docker; Python; Ansible; Linux
+Glassdoor,DevOps Engineer,SpaceX,"Hawthorne, CA",AWS; Kubernetes; Docker; Python; Terraform; Linux
+Glassdoor,Platform Engineer,Lockheed Martin,"Bethesda, MD",AWS; Kubernetes; Docker; Python; Ansible; Jenkins
+Glassdoor,SRE,Northrop Grumman,"Falls Church, VA",AWS; Kubernetes; Docker; Python; Terraform; Security
+Glassdoor,Cloud DevOps,Raytheon,"Waltham, MA",AWS; Kubernetes; Docker; Python; Ansible; Jenkins
+Glassdoor,DevOps Engineer,Boeing,"Seattle, WA",AWS; Kubernetes; Docker; Python; Terraform; Linux
+Glassdoor,DevOps Engineer,Booking.com,"New York, NY",AWS; Kubernetes; Docker; Java; Terraform; Prometheus
+Glassdoor,Platform Engineer,Expedia,"Seattle, WA",AWS; Kubernetes; Docker; Java; Terraform; Jenkins
+Glassdoor,SRE,Marriott,"Bethesda, MD",AWS; Azure; Kubernetes; Docker; Terraform; Ansible
+Glassdoor,Cloud DevOps,Hilton,"McLean, VA",AWS; Kubernetes; Docker; Python; Terraform; Jenkins
+Glassdoor,DevOps Engineer,Tripadvisor,"Needham, MA",AWS; Kubernetes; Docker; Python; Terraform; Datadog
+Glassdoor,DevOps Engineer,Zillow,"Seattle, WA",AWS; Kubernetes; Docker; Python; Terraform; Jenkins
+Glassdoor,Platform Engineer,Redfin,"Seattle, WA",AWS; Kubernetes; Docker; Java; Terraform; Ansible
+Glassdoor,SRE,Opendoor,"San Francisco, CA",AWS; Kubernetes; Docker; Go; Terraform; Datadog
+Glassdoor,Cloud DevOps,Compass,"New York, NY",AWS; Kubernetes; Docker; Python; Terraform; Jenkins
+Glassdoor,DevOps Engineer,CoStar Group,"Washington, DC",AWS; Kubernetes; Docker; Python; Terraform; Ansible
+Glassdoor,DevOps Engineer,Coursera,"Mountain View, CA",AWS; Kubernetes; Docker; Python; Terraform; Jenkins
+Glassdoor,Platform Engineer,Duolingo,"Pittsburgh, PA",AWS; Kubernetes; Docker; Python; Terraform; Prometheus
+Glassdoor,SRE,Chegg,"Santa Clara, CA",AWS; Kubernetes; Docker; Python; Terraform; Datadog
+Glassdoor,Cloud DevOps,Udemy,"San Francisco, CA",AWS; Kubernetes; Docker; Python; Terraform; Jenkins
+Glassdoor,DevOps Engineer,Instructure,"Salt Lake City, UT",AWS; Kubernetes; Docker; Ruby; Terraform; Ansible
+Glassdoor,DevOps Engineer,Uber Eats,"San Francisco, CA",AWS; Kubernetes; Docker; Go; Terraform; Prometheus
+Glassdoor,Platform Engineer,Grubhub,"Chicago, IL",AWS; Kubernetes; Docker; Java; Terraform; Jenkins
+Glassdoor,SRE,Postmates,"San Francisco, CA",AWS; Kubernetes; Docker; Python; Terraform; Datadog
+Glassdoor,Cloud DevOps,Blue Apron,"New York, NY",AWS; Kubernetes; Docker; Ruby; Terraform; Ansible
+Glassdoor,DevOps Engineer,HelloFresh,"New York, NY",AWS; Kubernetes; Docker; Python; Terraform; Jenkins
+Glassdoor,DevOps Engineer,Delivery Hero,"Berlin, Germany",AWS; Kubernetes; Docker; Go; Terraform; Prometheus
+Glassdoor,Platform Engineer,N26,"Berlin, Germany",AWS; Kubernetes; Docker; Python; Terraform; Kafka
+Glassdoor,SRE,Zalando,"Berlin, Germany",AWS; Kubernetes; Docker; Java; Terraform; Prometheus
+Glassdoor,Cloud DevOps,Spotify,"London, UK",GCP; Kubernetes; Docker; Python; Terraform; Backstage
+Glassdoor,DevOps Engineer,Monzo,"London, UK",AWS; Kubernetes; Docker; Go; Terraform; Prometheus
+Glassdoor,Platform Engineer,Starling Bank,"London, UK",AWS; Kubernetes; Docker; Java; Terraform; Jenkins
+Glassdoor,SRE,Checkout.com,"London, UK",AWS; Kubernetes; Docker; Go; Terraform; Datadog
+Glassdoor,DevOps Engineer,Gojek,"Jakarta, Indonesia",GCP; Kubernetes; Docker; Go; Terraform; Kafka
+Glassdoor,Cloud DevOps,Sea Group,Singapore,AWS; Kubernetes; Docker; Python; Terraform; Jenkins
+Glassdoor,Platform Engineer,Carousell,Singapore,AWS; Kubernetes; Docker; Go; Terraform; Prometheus

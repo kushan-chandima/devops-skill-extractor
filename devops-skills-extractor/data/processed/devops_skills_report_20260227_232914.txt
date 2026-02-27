@@ -1,0 +1,30 @@
+======================================================================
+DEVOPS SKILLS ANALYSIS REPORT
+Generated: 2026-02-27 23:29:14
+======================================================================
+
+Total Job Postings Analyzed: 190
+  - LinkedIn: 95 postings
+  - Glassdoor: 95 postings
+Unique Skills Identified: 48
+Total Skill Mentions: 1140
+
+TOP 15 MOST IN-DEMAND SKILLS:
+----------------------------------------------------------------------
+1     Kubernetes          187         98.4%
+2     Docker              184         96.8%
+3     AWS                 166         87.4%
+4     Terraform           154         81.1%
+5     Python              108         56.8%
+6     Jenkins             60          31.6%
+7     Ansible             43          22.6%
+8     Go                  36          18.9%
+9     Azure               27          14.2%
+10    Prometheus          27          14.2%
+11    Java                24          12.6%
+12    GCP                 20          10.5%
+13    Datadog             15           7.9%
+14    Linux               14           7.4%
+15    Ruby                12           6.3%
+
+======================================================================

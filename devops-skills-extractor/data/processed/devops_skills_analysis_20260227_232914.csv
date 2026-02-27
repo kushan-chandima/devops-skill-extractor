@@ -1,0 +1,49 @@
+Rank,Skill,Job Count,Percentage,Category
+1,Kubernetes,187,98.4%,Containerization
+2,Docker,184,96.8%,Containerization
+3,AWS,166,87.4%,Cloud Platforms
+4,Terraform,154,81.1%,IaC & Config Management
+5,Python,108,56.8%,Programming Languages
+6,Jenkins,60,31.6%,CI/CD Tools
+7,Ansible,43,22.6%,IaC & Config Management
+8,Go,36,18.9%,Programming Languages
+9,Azure,27,14.2%,Cloud Platforms
+10,Prometheus,27,14.2%,Monitoring & Observability
+11,Java,24,12.6%,Programming Languages
+12,GCP,20,10.5%,Cloud Platforms
+13,Datadog,15,7.9%,Other
+14,Linux,14,7.4%,Operating Systems
+15,Ruby,12,6.3%,Programming Languages
+16,Kafka,7,3.7%,Messaging & Data
+17,Grafana,4,2.1%,Monitoring & Observability
+18,Chef,4,2.1%,IaC & Config Management
+19,Security,4,2.1%,Security
+20,CI/CD,3,1.6%,CI/CD Tools
+21,Git,3,1.6%,Version Control
+22,Backstage,3,1.6%,Other
+23,GitLab CI,3,1.6%,CI/CD Tools
+24,Spinnaker,2,1.1%,CI/CD Tools
+25,Bash,2,1.1%,Programming Languages
+26,OpenShift,2,1.1%,Containerization
+27,MongoDB,2,1.1%,Messaging & Data
+28,Argo CD,2,1.1%,Other
+29,PostgreSQL,2,1.1%,Other
+30,GPU,2,1.1%,Other
+31,PowerShell,1,0.5%,Programming Languages
+32,Chaos Engineering,1,0.5%,Other
+33,DataDog,1,0.5%,Monitoring & Observability
+34,OCI,1,0.5%,Cloud Platforms
+35,vSphere,1,0.5%,Cloud Platforms
+36,Rust,1,0.5%,Programming Languages
+37,Splunk,1,0.5%,Monitoring & Observability
+38,Scala,1,0.5%,Other
+39,Nginx,1,0.5%,Other
+40,5G,1,0.5%,Other
+41,Redis,1,0.5%,Other
+42,Puppet,1,0.5%,IaC & Config Management
+43,Bamboo,1,0.5%,CI/CD Tools
+44,Bitbucket,1,0.5%,CI/CD Tools
+45,Vault,1,0.5%,IaC & Config Management
+46,Consul,1,0.5%,IaC & Config Management
+47,ELK Stack,1,0.5%,Monitoring & Observability
+48,Envoy,1,0.5%,Other

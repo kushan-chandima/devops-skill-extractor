@@ -1,0 +1,3238 @@
+{
+  "report_metadata": {
+    "generated_at": "2026-02-27T23:32:35.307755",
+    "total_job_postings": 190,
+    "linkedin_postings": 95,
+    "glassdoor_postings": 95,
+    "unique_skills_count": 48,
+    "total_skill_mentions": 1140
+  },
+  "skill_rankings": [
+    {
+      "rank": 1,
+      "skill": "Kubernetes",
+      "count": 187,
+      "percentage": 98.4
+    },
+    {
+      "rank": 2,
+      "skill": "Docker",
+      "count": 184,
+      "percentage": 96.8
+    },
+    {
+      "rank": 3,
+      "skill": "AWS",
+      "count": 166,
+      "percentage": 87.4
+    },
+    {
+      "rank": 4,
+      "skill": "Terraform",
+      "count": 154,
+      "percentage": 81.1
+    },
+    {
+      "rank": 5,
+      "skill": "Python",
+      "count": 108,
+      "percentage": 56.8
+    },
+    {
+      "rank": 6,
+      "skill": "Jenkins",
+      "count": 60,
+      "percentage": 31.6
+    },
+    {
+      "rank": 7,
+      "skill": "Ansible",
+      "count": 43,
+      "percentage": 22.6
+    },
+    {
+      "rank": 8,
+      "skill": "Go",
+      "count": 36,
+      "percentage": 18.9
+    },
+    {
+      "rank": 9,
+      "skill": "Azure",
+      "count": 27,
+      "percentage": 14.2
+    },
+    {
+      "rank": 10,
+      "skill": "Prometheus",
+      "count": 27,
+      "percentage": 14.2
+    },
+    {
+      "rank": 11,
+      "skill": "Java",
+      "count": 24,
+      "percentage": 12.6
+    },
+    {
+      "rank": 12,
+      "skill": "GCP",
+      "count": 20,
+      "percentage": 10.5
+    },
+    {
+      "rank": 13,
+      "skill": "Datadog",
+      "count": 15,
+      "percentage": 7.9
+    },
+    {
+      "rank": 14,
+      "skill": "Linux",
+      "count": 14,
+      "percentage": 7.4
+    },
+    {
+      "rank": 15,
+      "skill": "Ruby",
+      "count": 12,
+      "percentage": 6.3
+    },
+    {
+      "rank": 16,
+      "skill": "Kafka",
+      "count": 7,
+      "percentage": 3.7
+    },
+    {
+      "rank": 17,
+      "skill": "Grafana",
+      "count": 4,
+      "percentage": 2.1
+    },
+    {
+      "rank": 18,
+      "skill": "Chef",
+      "count": 4,
+      "percentage": 2.1
+    },
+    {
+      "rank": 19,
+      "skill": "Security",
+      "count": 4,
+      "percentage": 2.1
+    },
+    {
+      "rank": 20,
+      "skill": "CI/CD",
+      "count": 3,
+      "percentage": 1.6
+    },
+    {
+      "rank": 21,
+      "skill": "Git",
+      "count": 3,
+      "percentage": 1.6
+    },
+    {
+      "rank": 22,
+      "skill": "Backstage",
+      "count": 3,
+      "percentage": 1.6
+    },
+    {
+      "rank": 23,
+      "skill": "GitLab CI",
+      "count": 3,
+      "percentage": 1.6
+    },
+    {
+      "rank": 24,
+      "skill": "Spinnaker",
+      "count": 2,
+      "percentage": 1.1
+    },
+    {
+      "rank": 25,
+      "skill": "Bash",
+      "count": 2,
+      "percentage": 1.1
+    },
+    {
+      "rank": 26,
+      "skill": "OpenShift",
+      "count": 2,
+      "percentage": 1.1
+    },
+    {
+      "rank": 27,
+      "skill": "MongoDB",
+      "count": 2,
+      "percentage": 1.1
+    },
+    {
+      "rank": 28,
+      "skill": "Argo CD",
+      "count": 2,
+      "percentage": 1.1
+    },
+    {
+      "rank": 29,
+      "skill": "PostgreSQL",
+      "count": 2,
+      "percentage": 1.1
+    },
+    {
+      "rank": 30,
+      "skill": "GPU",
+      "count": 2,
+      "percentage": 1.1
+    },
+    {
+      "rank": 31,
+      "skill": "PowerShell",
+      "count": 1,
+      "percentage": 0.5
+    },
+    {
+      "rank": 32,
+      "skill": "Chaos Engineering",
+      "count": 1,
+      "percentage": 0.5
+    },
+    {
+      "rank": 33,
+      "skill": "DataDog",
+      "count": 1,
+      "percentage": 0.5
+    },
+    {
+      "rank": 34,
+      "skill": "OCI",
+      "count": 1,
+      "percentage": 0.5
+    },
+    {
+      "rank": 35,
+      "skill": "vSphere",
+      "count": 1,
+      "percentage": 0.5
+    },
+    {
+      "rank": 36,
+      "skill": "Rust",
+      "count": 1,
+      "percentage": 0.5
+    },
+    {
+      "rank": 37,
+      "skill": "Splunk",
+      "count": 1,
+      "percentage": 0.5
+    },
+    {
+      "rank": 38,
+      "skill": "Scala",
+      "count": 1,
+      "percentage": 0.5
+    },
+    {
+      "rank": 39,
+      "skill": "Nginx",
+      "count": 1,
+      "percentage": 0.5
+    },
+    {
+      "rank": 40,
+      "skill": "5G",
+      "count": 1,
+      "percentage": 0.5
+    },
+    {
+      "rank": 41,
+      "skill": "Redis",
+      "count": 1,
+      "percentage": 0.5
+    },
+    {
+      "rank": 42,
+      "skill": "Puppet",
+      "count": 1,
+      "percentage": 0.5
+    },
+    {
+      "rank": 43,
+      "skill": "Bamboo",
+      "count": 1,
+      "percentage": 0.5
+    },
+    {
+      "rank": 44,
+      "skill": "Bitbucket",
+      "count": 1,
+      "percentage": 0.5
+    },
+    {
+      "rank": 45,
+      "skill": "Vault",
+      "count": 1,
+      "percentage": 0.5
+    },
+    {
+      "rank": 46,
+      "skill": "Consul",
+      "count": 1,
+      "percentage": 0.5
+    },
+    {
+      "rank": 47,
+      "skill": "ELK Stack",
+      "count": 1,
+      "percentage": 0.5
+    },
+    {
+      "rank": 48,
+      "skill": "Envoy",
+      "count": 1,
+      "percentage": 0.5
+    }
+  ],
+  "skills_by_category": {
+    "Cloud Platforms": [
+      {
+        "skill": "AWS",
+        "count": 166
+      },
+      {
+        "skill": "Azure",
+        "count": 27
+      },
+      {
+        "skill": "GCP",
+        "count": 20
+      },
+      {
+        "skill": "OCI",
+        "count": 1
+      },
+      {
+        "skill": "vSphere",
+        "count": 1
+      }
+    ],
+    "Containerization": [
+      {
+        "skill": "Kubernetes",
+        "count": 187
+      },
+      {
+        "skill": "Docker",
+        "count": 184
+      },
+      {
+        "skill": "OpenShift",
+        "count": 2
+      }
+    ],
+    "IaC & Config Management": [
+      {
+        "skill": "Terraform",
+        "count": 154
+      },
+      {
+        "skill": "Ansible",
+        "count": 43
+      },
+      {
+        "skill": "Chef",
+        "count": 4
+      },
+      {
+        "skill": "Puppet",
+        "count": 1
+      },
+      {
+        "skill": "Vault",
+        "count": 1
+      },
+      {
+        "skill": "Consul",
+        "count": 1
+      }
+    ],
+    "CI/CD Tools": [
+      {
+        "skill": "Jenkins",
+        "count": 60
+      },
+      {
+        "skill": "CI/CD",
+        "count": 3
+      },
+      {
+        "skill": "GitLab CI",
+        "count": 3
+      },
+      {
+        "skill": "Spinnaker",
+        "count": 2
+      },
+      {
+        "skill": "Bamboo",
+        "count": 1
+      },
+      {
+        "skill": "Bitbucket",
+        "count": 1
+      }
+    ],
+    "Programming Languages": [
+      {
+        "skill": "Python",
+        "count": 108
+      },
+      {
+        "skill": "Go",
+        "count": 36
+      },
+      {
+        "skill": "Java",
+        "count": 24
+      },
+      {
+        "skill": "Ruby",
+        "count": 12
+      },
+      {
+        "skill": "Bash",
+        "count": 2
+      },
+      {
+        "skill": "PowerShell",
+        "count": 1
+      },
+      {
+        "skill": "Rust",
+        "count": 1
+      }
+    ],
+    "Monitoring & Observability": [
+      {
+        "skill": "Prometheus",
+        "count": 27
+      },
+      {
+        "skill": "Grafana",
+        "count": 4
+      },
+      {
+        "skill": "DataDog",
+        "count": 1
+      },
+      {
+        "skill": "Splunk",
+        "count": 1
+      },
+      {
+        "skill": "ELK Stack",
+        "count": 1
+      }
+    ],
+    "Version Control": [
+      {
+        "skill": "Git",
+        "count": 3
+      }
+    ],
+    "Operating Systems": [
+      {
+        "skill": "Linux",
+        "count": 14
+      }
+    ],
+    "Messaging & Data": [
+      {
+        "skill": "Kafka",
+        "count": 7
+      },
+      {
+        "skill": "MongoDB",
+        "count": 2
+      }
+    ],
+    "Security": [
+      {
+        "skill": "Security",
+        "count": 4
+      }
+    ],
+    "Other": [
+      {
+        "skill": "Datadog",
+        "count": 15
+      },
+      {
+        "skill": "Backstage",
+        "count": 3
+      },
+      {
+        "skill": "Argo CD",
+        "count": 2
+      },
+      {
+        "skill": "PostgreSQL",
+        "count": 2
+      },
+      {
+        "skill": "GPU",
+        "count": 2
+      },
+      {
+        "skill": "Chaos Engineering",
+        "count": 1
+      },
+      {
+        "skill": "Scala",
+        "count": 1
+      },
+      {
+        "skill": "Nginx",
+        "count": 1
+      },
+      {
+        "skill": "5G",
+        "count": 1
+      },
+      {
+        "skill": "Redis",
+        "count": 1
+      },
+      {
+        "skill": "Envoy",
+        "count": 1
+      }
+    ]
+  },
+  "job_postings": {
+    "linkedin": [
+      {
+        "title": "Senior DevOps Engineer",
+        "company": "Amazon Web Services",
+        "location": "Seattle, WA",
+        "skills": [
+          "AWS",
+          "Docker",
+          "Kubernetes",
+          "Terraform",
+          "Python",
+          "CI/CD"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Microsoft",
+        "location": "Redmond, WA",
+        "skills": [
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "PowerShell",
+          "Git",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Cloud DevOps Engineer",
+        "company": "Google",
+        "location": "Mountain View, CA",
+        "skills": [
+          "GCP",
+          "Kubernetes",
+          "Terraform",
+          "Go",
+          "Prometheus",
+          "Grafana"
+        ]
+      },
+      {
+        "title": "DevOps/SRE Engineer",
+        "company": "Netflix",
+        "location": "Los Gatos, CA",
+        "skills": [
+          "AWS",
+          "Docker",
+          "Kubernetes",
+          "Java",
+          "Spinnaker",
+          "Chaos Engineering"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Spotify",
+        "location": "New York, NY",
+        "skills": [
+          "GCP",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Backstage"
+        ]
+      },
+      {
+        "title": "DevOps Engineer II",
+        "company": "Meta",
+        "location": "Menlo Park, CA",
+        "skills": [
+          "Linux",
+          "Python",
+          "Docker",
+          "Kubernetes",
+          "CI/CD",
+          "Chef"
+        ]
+      },
+      {
+        "title": "Infrastructure Engineer",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "skills": [
+          "AWS",
+          "Terraform",
+          "Ansible",
+          "Python",
+          "Kubernetes",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Senior SRE",
+        "company": "Uber",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Go",
+          "Prometheus",
+          "Terraform",
+          "Docker"
+        ]
+      },
+      {
+        "title": "DevOps Lead",
+        "company": "Airbnb",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Ruby",
+          "Terraform",
+          "DataDog"
+        ]
+      },
+      {
+        "title": "Cloud Infrastructure Engineer",
+        "company": "Stripe",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Terraform",
+          "Kubernetes",
+          "Ruby",
+          "Linux",
+          "Git"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Salesforce",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Docker",
+          "Kubernetes",
+          "Jenkins",
+          "Ansible",
+          "Python"
+        ]
+      },
+      {
+        "title": "Platform DevOps Engineer",
+        "company": "Adobe",
+        "location": "San Jose, CA",
+        "skills": [
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Java"
+        ]
+      },
+      {
+        "title": "DevOps Specialist",
+        "company": "Oracle",
+        "location": "Austin, TX",
+        "skills": [
+          "OCI",
+          "Docker",
+          "Kubernetes",
+          "Ansible",
+          "Linux",
+          "Bash"
+        ]
+      },
+      {
+        "title": "Senior DevOps Engineer",
+        "company": "IBM",
+        "location": "Armonk, NY",
+        "skills": [
+          "AWS",
+          "OpenShift",
+          "Docker",
+          "Jenkins",
+          "Python",
+          "Terraform"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Cisco",
+        "location": "San Jose, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Ansible",
+          "Python",
+          "GitLab CI"
+        ]
+      },
+      {
+        "title": "Cloud DevOps Architect",
+        "company": "VMware",
+        "location": "Palo Alto, CA",
+        "skills": [
+          "vSphere",
+          "Kubernetes",
+          "Terraform",
+          "Ansible",
+          "Python",
+          "AWS"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "PayPal",
+        "location": "San Jose, CA",
+        "skills": [
+          "AWS",
+          "Docker",
+          "Kubernetes",
+          "Jenkins",
+          "Java",
+          "Terraform"
+        ]
+      },
+      {
+        "title": "Infrastructure DevOps",
+        "company": "LinkedIn",
+        "location": "Sunnyvale, CA",
+        "skills": [
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Ansible",
+          "Python",
+          "Kafka"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Twitter/X",
+        "location": "San Francisco, CA",
+        "skills": [
+          "GCP",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "Senior Platform Engineer",
+        "company": "Dropbox",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Rust"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Goldman Sachs",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Cloud Platform Engineer",
+        "company": "JP Morgan Chase",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Ansible",
+          "Python"
+        ]
+      },
+      {
+        "title": "SRE DevOps",
+        "company": "Morgan Stanley",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Java",
+          "Terraform",
+          "Splunk"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Capital One",
+        "location": "McLean, VA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Jenkins",
+          "Terraform"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Fidelity Investments",
+        "location": "Boston, MA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Ansible",
+          "Python",
+          "GitLab CI"
+        ]
+      },
+      {
+        "title": "DevOps Lead",
+        "company": "American Express",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Java",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Cloud DevOps Engineer",
+        "company": "Visa",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "Infrastructure Engineer",
+        "company": "Mastercard",
+        "location": "Purchase, NY",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Ansible",
+          "Python",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Senior DevOps",
+        "company": "Citadel",
+        "location": "Chicago, IL",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Linux"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Bloomberg",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Jenkins",
+          "Ansible"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Walmart Labs",
+        "location": "Sunnyvale, CA",
+        "skills": [
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Java",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Cloud Platform Engineer",
+        "company": "Target",
+        "location": "Minneapolis, MN",
+        "skills": [
+          "GCP",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Ansible"
+        ]
+      },
+      {
+        "title": "Senior SRE",
+        "company": "eBay",
+        "location": "San Jose, CA",
+        "skills": [
+          "Kubernetes",
+          "Docker",
+          "AWS",
+          "Java",
+          "Terraform",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Shopify",
+        "location": "Ottawa, Canada",
+        "skills": [
+          "GCP",
+          "Kubernetes",
+          "Docker",
+          "Ruby",
+          "Terraform",
+          "Datadog"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Etsy",
+        "location": "Brooklyn, NY",
+        "skills": [
+          "GCP",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Chef"
+        ]
+      },
+      {
+        "title": "Senior DevOps Engineer",
+        "company": "Snowflake",
+        "location": "San Mateo, CA",
+        "skills": [
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Python"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Databricks",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Scala"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "Cloudflare",
+        "location": "San Francisco, CA",
+        "skills": [
+          "Linux",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Nginx"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Datadog",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Python"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "PagerDuty",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Ruby",
+          "Terraform",
+          "Chef"
+        ]
+      },
+      {
+        "title": "DevOps Lead",
+        "company": "Splunk",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Ansible",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Cloud Engineer",
+        "company": "New Relic",
+        "location": "Portland, OR",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Sumo Logic",
+        "location": "Redwood City, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "Elastic",
+        "location": "Mountain View, CA",
+        "skills": [
+          "AWS",
+          "GCP",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Java"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "MongoDB",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "MongoDB"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "ServiceNow",
+        "location": "Santa Clara, CA",
+        "skills": [
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Ansible",
+          "Python"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Workday",
+        "location": "Pleasanton, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Java",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Senior DevOps",
+        "company": "SAP",
+        "location": "Palo Alto, CA",
+        "skills": [
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Python"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Intuit",
+        "location": "Mountain View, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Argo CD"
+        ]
+      },
+      {
+        "title": "Cloud DevOps",
+        "company": "Zendesk",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Ruby",
+          "Terraform",
+          "Datadog"
+        ]
+      },
+      {
+        "title": "DevSecOps Engineer",
+        "company": "CrowdStrike",
+        "location": "Sunnyvale, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Security"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Palo Alto Networks",
+        "location": "Santa Clara, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Ansible",
+          "Security"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "Okta",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Python"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Fortinet",
+        "location": "Sunnyvale, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Ansible",
+          "Linux"
+        ]
+      },
+      {
+        "title": "DevOps Lead",
+        "company": "Zscaler",
+        "location": "San Jose, CA",
+        "skills": [
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Python"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Electronic Arts",
+        "location": "Redwood City, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Activision Blizzard",
+        "location": "Santa Monica, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Ansible"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "Riot Games",
+        "location": "Los Angeles, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Epic Games",
+        "location": "Cary, NC",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Cloud Engineer",
+        "company": "Unity",
+        "location": "San Francisco, CA",
+        "skills": [
+          "GCP",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Grafana"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Moderna",
+        "location": "Cambridge, MA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Illumina",
+        "location": "San Diego, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Ansible",
+          "Linux"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "Genentech",
+        "location": "South San Francisco, CA",
+        "skills": [
+          "GCP",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Grafana"
+        ]
+      },
+      {
+        "title": "DevOps Lead",
+        "company": "Amgen",
+        "location": "Thousand Oaks, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Cloud DevOps",
+        "company": "Pfizer",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Ansible",
+          "Python"
+        ]
+      },
+      {
+        "title": "DevOps Consultant",
+        "company": "Accenture",
+        "location": "Chicago, IL",
+        "skills": [
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Python"
+        ]
+      },
+      {
+        "title": "Cloud Engineer",
+        "company": "Deloitte",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Ansible",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Capgemini",
+        "location": "Dallas, TX",
+        "skills": [
+          "AWS",
+          "GCP",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Python"
+        ]
+      },
+      {
+        "title": "SRE Consultant",
+        "company": "KPMG",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Ansible"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "PwC",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "AT&T",
+        "location": "Dallas, TX",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Ansible",
+          "Python",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Cloud Platform Engineer",
+        "company": "Verizon",
+        "location": "Basking Ridge, NJ",
+        "skills": [
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "5G"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "T-Mobile",
+        "location": "Bellevue, WA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Comcast",
+        "location": "Philadelphia, PA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Jenkins",
+          "Ansible"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Disney",
+        "location": "Burbank, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Java",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Figma",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Ruby",
+          "Terraform",
+          "Datadog"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "Notion",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Airtable",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Redis"
+        ]
+      },
+      {
+        "title": "DevOps Lead",
+        "company": "Canva",
+        "location": "Sydney, Australia",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Datadog"
+        ]
+      },
+      {
+        "title": "Cloud Engineer",
+        "company": "Miro",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Plaid",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Python"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "Ramp",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Argo CD"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Brex",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Datadog"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Scale AI",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "GCP",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Python"
+        ]
+      },
+      {
+        "title": "Cloud DevOps",
+        "company": "OpenAI",
+        "location": "San Francisco, CA",
+        "skills": [
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "GPU"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Siemens",
+        "location": "Munich, Germany",
+        "skills": [
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Python"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "SAP",
+        "location": "Walldorf, Germany",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Spotify",
+        "location": "Stockholm, Sweden",
+        "skills": [
+          "GCP",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Backstage"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Klarna",
+        "location": "Stockholm, Sweden",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Kafka"
+        ]
+      },
+      {
+        "title": "Cloud Engineer",
+        "company": "HSBC",
+        "location": "London, UK",
+        "skills": [
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Python"
+        ]
+      },
+      {
+        "title": "DevOps Lead",
+        "company": "Barclays",
+        "location": "London, UK",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Java",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "Revolut",
+        "location": "London, UK",
+        "skills": [
+          "GCP",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Wise",
+        "location": "London, UK",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Rakuten",
+        "location": "Tokyo, Japan",
+        "skills": [
+          "AWS",
+          "OpenShift",
+          "Docker",
+          "Java",
+          "Ansible",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Grab",
+        "location": "Singapore",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Kafka"
+        ]
+      }
+    ],
+    "glassdoor": [
+      {
+        "title": "DevOps Engineer",
+        "company": "Accenture",
+        "location": "Chicago, IL",
+        "skills": [
+          "AWS",
+          "Docker",
+          "Kubernetes",
+          "Jenkins",
+          "Terraform",
+          "Linux"
+        ]
+      },
+      {
+        "title": "Senior DevOps Engineer",
+        "company": "Deloitte",
+        "location": "New York, NY",
+        "skills": [
+          "Azure",
+          "Docker",
+          "Kubernetes",
+          "Ansible",
+          "Python",
+          "Git"
+        ]
+      },
+      {
+        "title": "Cloud DevOps Engineer",
+        "company": "Capgemini",
+        "location": "Dallas, TX",
+        "skills": [
+          "AWS",
+          "GCP",
+          "Terraform",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "DevOps Architect",
+        "company": "Infosys",
+        "location": "Atlanta, GA",
+        "skills": [
+          "AWS",
+          "Azure",
+          "Docker",
+          "Kubernetes",
+          "Ansible",
+          "Chef"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Cognizant",
+        "location": "Boston, MA",
+        "skills": [
+          "AWS",
+          "Docker",
+          "Jenkins",
+          "Puppet",
+          "Linux",
+          "Bash"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "TCS",
+        "location": "Edison, NJ",
+        "skills": [
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Python"
+        ]
+      },
+      {
+        "title": "DevOps Consultant",
+        "company": "Wipro",
+        "location": "Houston, TX",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Ansible",
+          "Jenkins",
+          "Linux"
+        ]
+      },
+      {
+        "title": "Cloud Engineer",
+        "company": "HCL Technologies",
+        "location": "Cary, NC",
+        "skills": [
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Python"
+        ]
+      },
+      {
+        "title": "DevOps Specialist",
+        "company": "Tech Mahindra",
+        "location": "Santa Clara, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Jenkins",
+          "Ansible",
+          "Python"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "LTIMindtree",
+        "location": "Warren, NJ",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Prometheus",
+          "Go"
+        ]
+      },
+      {
+        "title": "Site Reliability Engineer",
+        "company": "Splunk",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Atlassian",
+        "location": "Austin, TX",
+        "skills": [
+          "AWS",
+          "Docker",
+          "Kubernetes",
+          "Bamboo",
+          "Bitbucket",
+          "Python"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Snowflake",
+        "location": "San Mateo, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Terraform",
+          "Python",
+          "Docker",
+          "CI/CD"
+        ]
+      },
+      {
+        "title": "DevOps Specialist",
+        "company": "Workday",
+        "location": "Pleasanton, CA",
+        "skills": [
+          "AWS",
+          "Docker",
+          "Kubernetes",
+          "Ansible",
+          "Java",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Cloud Infrastructure Engineer",
+        "company": "ServiceNow",
+        "location": "Santa Clara, CA",
+        "skills": [
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Terraform",
+          "Python",
+          "Linux"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Palo Alto Networks",
+        "location": "Santa Clara, CA",
+        "skills": [
+          "AWS",
+          "Docker",
+          "Kubernetes",
+          "Jenkins",
+          "Python",
+          "Security"
+        ]
+      },
+      {
+        "title": "Senior DevOps Engineer",
+        "company": "Twilio",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Go",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "DevOps Engineer II",
+        "company": "Box",
+        "location": "Redwood City, CA",
+        "skills": [
+          "AWS",
+          "Docker",
+          "Kubernetes",
+          "Jenkins",
+          "Ruby",
+          "Terraform"
+        ]
+      },
+      {
+        "title": "Infrastructure Engineer",
+        "company": "Datadog",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "GCP",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform"
+        ]
+      },
+      {
+        "title": "DevOps Lead",
+        "company": "HashiCorp",
+        "location": "San Francisco, CA",
+        "skills": [
+          "Terraform",
+          "Vault",
+          "Consul",
+          "Kubernetes",
+          "AWS",
+          "Go"
+        ]
+      },
+      {
+        "title": "Cloud DevOps Engineer",
+        "company": "MongoDB",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Python",
+          "MongoDB"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Elastic",
+        "location": "Mountain View, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "ELK Stack",
+          "Terraform",
+          "Python"
+        ]
+      },
+      {
+        "title": "Platform DevOps",
+        "company": "GitLab",
+        "location": "Remote",
+        "skills": [
+          "GCP",
+          "Kubernetes",
+          "Docker",
+          "GitLab CI",
+          "Terraform",
+          "Ruby"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Confluent",
+        "location": "Mountain View, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Kafka",
+          "Terraform",
+          "Java"
+        ]
+      },
+      {
+        "title": "Senior SRE/DevOps",
+        "company": "New Relic",
+        "location": "Portland, OR",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Prometheus",
+          "Grafana"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Wayfair",
+        "location": "Boston, MA",
+        "skills": [
+          "GCP",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Python",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Instacart",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Ruby",
+          "Datadog"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "DoorDash",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Lyft",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Envoy"
+        ]
+      },
+      {
+        "title": "Cloud Engineer",
+        "company": "Chewy",
+        "location": "Plantation, FL",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Python",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Square",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Ruby",
+          "Terraform",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Kafka"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "Coinbase",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Datadog"
+        ]
+      },
+      {
+        "title": "DevOps Lead",
+        "company": "Chime",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Cloud DevOps",
+        "company": "SoFi",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Java",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Affirm",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Ansible"
+        ]
+      },
+      {
+        "title": "Infrastructure Engineer",
+        "company": "Marqeta",
+        "location": "Oakland, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Datadog"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "Adyen",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Java",
+          "Terraform",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Toast",
+        "location": "Boston, MA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Bill.com",
+        "location": "San Jose, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Ansible"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Epic Systems",
+        "location": "Madison, WI",
+        "skills": [
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Veeva Systems",
+        "location": "Pleasanton, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Java",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "Cerner",
+        "location": "Kansas City, MO",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Ansible",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Cloud DevOps",
+        "company": "Teladoc Health",
+        "location": "Purchase, NY",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Python",
+          "Datadog"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Oscar Health",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Tesla",
+        "location": "Palo Alto, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Rivian",
+        "location": "Irvine, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Ansible"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "Lucid Motors",
+        "location": "Newark, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "Cloud DevOps",
+        "company": "Ford",
+        "location": "Dearborn, MI",
+        "skills": [
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "General Motors",
+        "location": "Detroit, MI",
+        "skills": [
+          "GCP",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Ansible"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Hulu",
+        "location": "Santa Monica, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Spinnaker"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Warner Bros Discovery",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "NBCUniversal",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Datadog"
+        ]
+      },
+      {
+        "title": "Cloud DevOps",
+        "company": "ViacomCBS",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Python",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Sony",
+        "location": "San Mateo, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Java",
+          "Terraform",
+          "Ansible"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "NVIDIA",
+        "location": "Santa Clara, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "GPU"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "AMD",
+        "location": "Santa Clara, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Ansible",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "Intel",
+        "location": "Santa Clara, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "Cloud DevOps",
+        "company": "Qualcomm",
+        "location": "San Diego, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Broadcom",
+        "location": "San Jose, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Ansible",
+          "Linux"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "SpaceX",
+        "location": "Hawthorne, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Linux"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Lockheed Martin",
+        "location": "Bethesda, MD",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Ansible",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "Northrop Grumman",
+        "location": "Falls Church, VA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Security"
+        ]
+      },
+      {
+        "title": "Cloud DevOps",
+        "company": "Raytheon",
+        "location": "Waltham, MA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Ansible",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Boeing",
+        "location": "Seattle, WA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Linux"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Booking.com",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Java",
+          "Terraform",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Expedia",
+        "location": "Seattle, WA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Java",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "Marriott",
+        "location": "Bethesda, MD",
+        "skills": [
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "Ansible"
+        ]
+      },
+      {
+        "title": "Cloud DevOps",
+        "company": "Hilton",
+        "location": "McLean, VA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Tripadvisor",
+        "location": "Needham, MA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Datadog"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Zillow",
+        "location": "Seattle, WA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Redfin",
+        "location": "Seattle, WA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Java",
+          "Terraform",
+          "Ansible"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "Opendoor",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Datadog"
+        ]
+      },
+      {
+        "title": "Cloud DevOps",
+        "company": "Compass",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "CoStar Group",
+        "location": "Washington, DC",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Ansible"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Coursera",
+        "location": "Mountain View, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Duolingo",
+        "location": "Pittsburgh, PA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "Chegg",
+        "location": "Santa Clara, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Datadog"
+        ]
+      },
+      {
+        "title": "Cloud DevOps",
+        "company": "Udemy",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Instructure",
+        "location": "Salt Lake City, UT",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Ruby",
+          "Terraform",
+          "Ansible"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Uber Eats",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Grubhub",
+        "location": "Chicago, IL",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Java",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "Postmates",
+        "location": "San Francisco, CA",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Datadog"
+        ]
+      },
+      {
+        "title": "Cloud DevOps",
+        "company": "Blue Apron",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Ruby",
+          "Terraform",
+          "Ansible"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "HelloFresh",
+        "location": "New York, NY",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Delivery Hero",
+        "location": "Berlin, Germany",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "N26",
+        "location": "Berlin, Germany",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Kafka"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "Zalando",
+        "location": "Berlin, Germany",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Java",
+          "Terraform",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "Cloud DevOps",
+        "company": "Spotify",
+        "location": "London, UK",
+        "skills": [
+          "GCP",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Backstage"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Monzo",
+        "location": "London, UK",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Prometheus"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Starling Bank",
+        "location": "London, UK",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Java",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "SRE",
+        "company": "Checkout.com",
+        "location": "London, UK",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Datadog"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Gojek",
+        "location": "Jakarta, Indonesia",
+        "skills": [
+          "GCP",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Kafka"
+        ]
+      },
+      {
+        "title": "Cloud DevOps",
+        "company": "Sea Group",
+        "location": "Singapore",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Terraform",
+          "Jenkins"
+        ]
+      },
+      {
+        "title": "Platform Engineer",
+        "company": "Carousell",
+        "location": "Singapore",
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Go",
+          "Terraform",
+          "Prometheus"
+        ]
+      }
+    ]
+  },
+  "companies": [
+    "Amazon Web Services",
+    "Microsoft",
+    "Google",
+    "Netflix",
+    "Spotify",
+    "Meta",
+    "Apple",
+    "Uber",
+    "Airbnb",
+    "Stripe",
+    "Salesforce",
+    "Adobe",
+    "Oracle",
+    "IBM",
+    "Cisco",
+    "VMware",
+    "PayPal",
+    "LinkedIn",
+    "Twitter/X",
+    "Dropbox",
+    "Goldman Sachs",
+    "JP Morgan Chase",
+    "Morgan Stanley",
+    "Capital One",
+    "Fidelity Investments",
+    "American Express",
+    "Visa",
+    "Mastercard",
+    "Citadel",
+    "Bloomberg",
+    "Walmart Labs",
+    "Target",
+    "eBay",
+    "Shopify",
+    "Etsy",
+    "Snowflake",
+    "Databricks",
+    "Cloudflare",
+    "Datadog",
+    "PagerDuty",
+    "Splunk",
+    "New Relic",
+    "Sumo Logic",
+    "Elastic",
+    "MongoDB",
+    "ServiceNow",
+    "Workday",
+    "SAP",
+    "Intuit",
+    "Zendesk",
+    "CrowdStrike",
+    "Palo Alto Networks",
+    "Okta",
+    "Fortinet",
+    "Zscaler",
+    "Electronic Arts",
+    "Activision Blizzard",
+    "Riot Games",
+    "Epic Games",
+    "Unity",
+    "Moderna",
+    "Illumina",
+    "Genentech",
+    "Amgen",
+    "Pfizer",
+    "Accenture",
+    "Deloitte",
+    "Capgemini",
+    "KPMG",
+    "PwC",
+    "AT&T",
+    "Verizon",
+    "T-Mobile",
+    "Comcast",
+    "Disney",
+    "Figma",
+    "Notion",
+    "Airtable",
+    "Canva",
+    "Miro",
+    "Plaid",
+    "Ramp",
+    "Brex",
+    "Scale AI",
+    "OpenAI",
+    "Siemens",
+    "Klarna",
+    "HSBC",
+    "Barclays",
+    "Revolut",
+    "Wise",
+    "Rakuten",
+    "Grab",
+    "Infosys",
+    "Cognizant",
+    "TCS",
+    "Wipro",
+    "HCL Technologies",
+    "Tech Mahindra",
+    "LTIMindtree",
+    "Atlassian",
+    "Twilio",
+    "Box",
+    "HashiCorp",
+    "GitLab",
+    "Confluent",
+    "Wayfair",
+    "Instacart",
+    "DoorDash",
+    "Lyft",
+    "Chewy",
+    "Square",
+    "Robinhood",
+    "Coinbase",
+    "Chime",
+    "SoFi",
+    "Affirm",
+    "Marqeta",
+    "Adyen",
+    "Toast",
+    "Bill.com",
+    "Epic Systems",
+    "Veeva Systems",
+    "Cerner",
+    "Teladoc Health",
+    "Oscar Health",
+    "Tesla",
+    "Rivian",
+    "Lucid Motors",
+    "Ford",
+    "General Motors",
+    "Hulu",
+    "Warner Bros Discovery",
+    "NBCUniversal",
+    "ViacomCBS",
+    "Sony",
+    "NVIDIA",
+    "AMD",
+    "Intel",
+    "Qualcomm",
+    "Broadcom",
+    "SpaceX",
+    "Lockheed Martin",
+    "Northrop Grumman",
+    "Raytheon",
+    "Boeing",
+    "Booking.com",
+    "Expedia",
+    "Marriott",
+    "Hilton",
+    "Tripadvisor",
+    "Zillow",
+    "Redfin",
+    "Opendoor",
+    "Compass",
+    "CoStar Group",
+    "Coursera",
+    "Duolingo",
+    "Chegg",
+    "Udemy",
+    "Instructure",
+    "Uber Eats",
+    "Grubhub",
+    "Postmates",
+    "Blue Apron",
+    "HelloFresh",
+    "Delivery Hero",
+    "N26",
+    "Zalando",
+    "Monzo",
+    "Starling Bank",
+    "Checkout.com",
+    "Gojek",
+    "Sea Group",
+    "Carousell"
+  ],
+  "locations": {
+    "Seattle, WA": 5,
+    "Redmond, WA": 1,
+    "Mountain View, CA": 6,
+    "Los Gatos, CA": 1,
+    "New York, NY": 24,
+    "Menlo Park, CA": 2,
+    "Cupertino, CA": 1,
+    "San Francisco, CA": 38,
+    "San Jose, CA": 7,
+    "Austin, TX": 2,
+    "Armonk, NY": 1,
+    "Palo Alto, CA": 3,
+    "Sunnyvale, CA": 4,
+    "McLean, VA": 2,
+    "Boston, MA": 4,
+    "Purchase, NY": 2,
+    "Chicago, IL": 4,
+    "Minneapolis, MN": 1,
+    "Ottawa, Canada": 1,
+    "Brooklyn, NY": 1,
+    "San Mateo, CA": 3,
+    "Portland, OR": 2,
+    "Redwood City, CA": 3,
+    "Santa Clara, CA": 9,
+    "Pleasanton, CA": 3,
+    "Santa Monica, CA": 2,
+    "Los Angeles, CA": 1,
+    "Cary, NC": 2,
+    "Cambridge, MA": 1,
+    "San Diego, CA": 2,
+    "South San Francisco, CA": 1,
+    "Thousand Oaks, CA": 1,
+    "Dallas, TX": 3,
+    "Basking Ridge, NJ": 1,
+    "Bellevue, WA": 1,
+    "Philadelphia, PA": 1,
+    "Burbank, CA": 1,
+    "Sydney, Australia": 1,
+    "Munich, Germany": 1,
+    "Walldorf, Germany": 1,
+    "Stockholm, Sweden": 2,
+    "London, UK": 8,
+    "Tokyo, Japan": 1,
+    "Singapore": 3,
+    "Atlanta, GA": 1,
+    "Edison, NJ": 1,
+    "Houston, TX": 1,
+    "Warren, NJ": 1,
+    "Remote": 1,
+    "Plantation, FL": 1,
+    "Oakland, CA": 1,
+    "Madison, WI": 1,
+    "Kansas City, MO": 1,
+    "Irvine, CA": 1,
+    "Newark, CA": 1,
+    "Dearborn, MI": 1,
+    "Detroit, MI": 1,
+    "Hawthorne, CA": 1,
+    "Bethesda, MD": 2,
+    "Falls Church, VA": 1,
+    "Waltham, MA": 1,
+    "Needham, MA": 1,
+    "Washington, DC": 1,
+    "Pittsburgh, PA": 1,
+    "Salt Lake City, UT": 1,
+    "Berlin, Germany": 3,
+    "Jakarta, Indonesia": 1
+  }
+}
